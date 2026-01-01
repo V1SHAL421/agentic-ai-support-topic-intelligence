@@ -1,3 +1,45 @@
+TAXONOMY_DATA = {
+    "primary_to_secondary_data": {
+        "Account Management": ["Login Issues", "Account Information Updates"],
+        "Order Management": ["Order Status & Tracking", "Order Modifications"],
+        "Product Issues": ["Defective Products", "Wrong Items Received"],
+        "Returns & Exchanges": ["Return Processes", "Exchange Requests"],
+        "Billing & Payment": ["Payment Issues", "Refunds"],
+        "Warranty & Support": ["Warranty Information", "Technical Support"],
+        "Delivery & Shipping": ["Delivery Problems", "Shipping Options"],
+        "Inventory & Availability": ["Stock Issues"],
+        "Pricing & Promotions": ["Pricing Discrepancies"],
+        "Documentation": ["Invoice Issues"]
+    },
+    "secondary_to_tertiary_data": {
+        "Login Issues": ["Mobile/Email Verification Problems", "Password Reset Requests", "Account Reactivation", "Exceeded Verification Attempts"],
+        "Account Information Updates": ["Email Address Changes", "Mobile Number Verification", "Corporate Email Signup Issues"],
+        "Order Status & Tracking": ["Delivery Status Inquiries", "Order Confirmation Checks", "Tracking Information Requests"],
+        "Order Modifications": ["Address Changes for Pickup/Delivery", "Cancellation Requests", "Expedited Shipping Requests"],
+        "Defective Products": ["Not Working Properly", "Damaged Upon Arrival", "Installation Problems"],
+        "Wrong Items Received": ["Incorrect Product Shipped", "Size/Model Mismatches"],
+        "Return Processes": ["Return Eligibility", "Return Fees and Policies", "Prepaid Shipping Labels"],
+        "Exchange Requests": ["Product Replacements", "Size Exchanges", "Defective Item Exchanges"],
+        "Payment Issues": ["Cash on Delivery Problems", "Credit Card Payment Failures", "Billing Discrepancies"],
+        "Refunds": ["Refund Status Checks", "Refund Processing Times", "Courier Charge Reimbursements"],
+        "Warranty Information": ["Warranty Start Dates", "Warranty Terms and Conditions", "Warranty Claim Processes"],
+        "Technical Support": ["Installation Assistance", "Product Troubleshooting", "Service Center Issues"],
+        "Delivery Problems": ["Delayed Deliveries", "Missing Packages", "Failed Delivery Attempts"],
+        "Shipping Options": ["Faster Delivery Requests", "Shipping Availability by Location", "Delivery Time Estimates"],
+        "Stock Issues": ["Out of Stock Products", "Availability Inquiries", "Waitlist Requests"],
+        "Pricing Discrepancies": ["Different Prices for Same Products", "Hidden Charges", "Loyalty Points and Rewards"],
+        "Invoice Issues": ["Missing Invoices", "Invoice Generation Problems", "Invoice Delivery to Email"]
+    }
+}
+
+
+
+
+
+
+
+
+"""
 primary_topics = [
     "Account Management",
     "Order Management",
@@ -44,7 +86,7 @@ secondary_to_tertiary = {
     "Invoice Issues": ["Missing Invoices", "Invoice Generation Problems", "Invoice Delivery to Email"]
 }
 
-"""
+
 Customer Support Topics
 ├── Account Management
 │   ├── Login Issues
@@ -133,4 +175,5 @@ Customer Support Topics
         ├── Missing Invoices
         ├── Invoice Generation Problems
         └── Invoice Delivery to Email
+
 """

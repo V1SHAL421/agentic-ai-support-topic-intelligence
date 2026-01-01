@@ -1,10 +1,25 @@
 from fastapi import FastAPI
 
+from app.llm.llm_inference import infer, validate_output
+from app.system_prompt import system_prompt
+from app.taxonomy.tree import TaxonomyTree
+from app.constants import TAXONOMY_DATA
+
 app = FastAPI()
 
 @app.get("/health")
 async def health_check():
     return {"status": "healthy"}
+
+@app.post("/infer")
+async def infer_endpoint(user_query: str):
+    model = "meta-llama/Meta-Llama-3.1-8B-Instruct"
+    inference_output = infer(model, user_query, system_prompt)
+    validated_output = validate_output(inference_output)
+    taxonomy_tree = TaxonomyTree(TAXONOMY_DATA)
+    if taxonomy_tree.validate_path(validated_output):
+        return validated_output
+
 
 """
 Primary:
