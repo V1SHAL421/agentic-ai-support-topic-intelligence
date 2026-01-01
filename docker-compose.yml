@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  vllm:
+    image: vllm/vllm-openai
+    command: >
+      --model meta-llama/Meta-Llama-3.1-8B-Instruct --max-model-len 2048 --dtype float16
+    ports:
+      - "8000:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: ["gpu"]
+
+  api:
+    build: .
+    depends_on:
+      - vllm
+    environment:
+      VLLM_BASE_URL: "http://vllm:8000"
