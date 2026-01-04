@@ -1,3 +1,7 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 TAXONOMY_DATA = {
     "primary_to_secondary_data": {
         "Account Management": ["Login Issues", "Account Information Updates"],
@@ -177,3 +181,13 @@ Customer Support Topics
         └── Invoice Delivery to Email
 
 """
+
+# Groq API Configuration
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_MODEL = "llama-3.3-70b-versatile"
+
+KNOWLEDGE_BASE_PATH = "app/data/support_topics.csv"
+EMBEDDING_MODEL = "BAAI/bge-base-en-v1.5"
+
+HF_API_KEY = os.getenv("HF_API_KEY")
+HF_MODEL = "meta-llama/Llama-3.1-8B-Instruct"

@@ -1,0 +1,246 @@
+conversation_id,conversation,primary_topic,secondary_topic,tertiary_topic,confidence
+1,"Agent: How can I help you today? Customer: I can’t log into my account, I forgot my password. Agent: I can help you reset it. What’s your email?","Account Management","Login Issues","Password Reset Requests",0.95
+2,"Agent: Thank you for calling. Customer: Hi, where is my order? I placed it 3 days ago. Agent: Let me check that for you.","Order Management","Order Status & Tracking","Delivery Status Inquiries",0.9
+3,"Agent: How may I assist you? Customer: The product I received is broken, it won’t turn on. Agent: I’m sorry to hear that.","Product Issues","Defective Products","Not Working Properly",0.85
+4,"Agent: Thank you for calling. Customer: I want to return an item I ordered yesterday. Agent: I’ll explain the return process.","Returns & Exchanges","Return Processes","Return Eligibility",0.92
+5,"Agent: Hello. Customer: I was charged twice for my order. Agent: Let me check your payment details.","Billing & Payment","Payment Issues","Billing Discrepancies",0.91
+6,"Agent: Thank you. Customer: Can you tell me if my product is still under warranty?","Warranty & Support","Warranty Information","Warranty Terms and Conditions",0.93
+7,"Agent: Hello. Customer: My delivery is delayed. Agent: I’ll check with the courier.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.9
+8,"Agent: Hi. Customer: Is this product in stock? Agent: Let me check availability.","Inventory & Availability","Stock Issues","Availability Inquiries",0.88
+9,"Agent: Hello. Customer: Why is the price higher than before?","Pricing & Promotions","Pricing Discrepancies","Different Prices for Same Products",0.87
+10,"Agent: Hi. Customer: I didn’t receive an invoice for my order.","Documentation","Invoice Issues","Missing Invoices",0.94
+11,"Agent: Hello. Customer: I can’t log in, the OTP isn’t coming.","Account Management","Login Issues","Mobile/Email Verification Problems",0.91
+12,"Agent: Thank you. Customer: Please confirm if my order was placed.","Order Management","Order Status & Tracking","Order Confirmation Checks",0.9
+13,"Agent: Hi. Customer: I received the wrong product.","Product Issues","Wrong Items Received","Incorrect Product Shipped",0.94
+14,"Agent: Hello. Customer: Is there a fee for returning my item?","Returns & Exchanges","Return Processes","Return Fees and Policies",0.89
+15,"Agent: Thank you. Customer: My refund hasn’t arrived yet.","Billing & Payment","Refunds","Refund Status Checks",0.94
+16,"Agent: Hi. Customer: How long does a refund take?","Billing & Payment","Refunds","Refund Processing Times",0.93
+17,"Agent: Hello. Customer: When does my warranty start?","Warranty & Support","Warranty Information","Warranty Start Dates",0.95
+18,"Agent: Hi. Customer: I need help installing my product.","Warranty & Support","Technical Support","Installation Assistance",0.9
+19,"Agent: Hello. Customer: My package is missing.","Delivery & Shipping","Delivery Problems","Missing Packages",0.93
+20,"Agent: Hi. Customer: Do you deliver to my location?","Delivery & Shipping","Shipping Options","Shipping Availability by Location",0.91
+21,"Agent: Hello. Customer: When will this be back in stock?","Inventory & Availability","Stock Issues","Availability Inquiries",0.9
+22,"Agent: Hi. Customer: I want to join the waitlist.","Inventory & Availability","Stock Issues","Waitlist Requests",0.92
+23,"Agent: Hello. Customer: My loyalty points aren’t showing.","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.9
+24,"Agent: Hi. Customer: I can’t download my invoice.","Documentation","Invoice Issues","Invoice Generation Problems",0.91
+25,"Agent: Hello. Customer: Please email me my invoice.","Documentation","Invoice Issues","Invoice Delivery to Email",0.95
+26,"Agent: Hi. Customer: Can you share the tracking link?","Order Management","Order Status & Tracking","Tracking Information Requests",0.93
+27,"Agent: Hello. Customer: I want faster delivery.","Order Management","Order Modifications","Expedited Shipping Requests",0.88
+28,"Agent: Hi. Customer: The product stopped working after installation.","Product Issues","Defective Products","Installation Problems",0.92
+29,"Agent: Hello. Customer: I ordered large but received medium.","Product Issues","Wrong Items Received","Size/Model Mismatches",0.94
+30,"Agent: Hi. Customer: Is my return eligible?","Returns & Exchanges","Return Processes","Return Eligibility",0.9
+31,"Agent: Hello. Customer: Will you send a prepaid return label?","Returns & Exchanges","Return Processes","Prepaid Shipping Labels",0.93
+32,"Agent: Hi. Customer: I want to exchange my defective item.","Returns & Exchanges","Exchange Requests","Defective Item Exchanges",0.94
+33,"Agent: Hello. Customer: COD is not available.","Billing & Payment","Payment Issues","Cash on Delivery Problems",0.88
+34,"Agent: Hi. Customer: My card payment failed.","Billing & Payment","Payment Issues","Credit Card Payment Failures",0.91
+35,"Agent: Hello. Customer: Will courier charges be reimbursed?","Billing & Payment","Refunds","Courier Charge Reimbursements",0.9
+36,"Agent: Hi. Customer: Can you explain warranty terms?","Warranty & Support","Warranty Information","Warranty Terms and Conditions",0.92
+37,"Agent: Hello. Customer: How do I claim warranty?","Warranty & Support","Warranty Information","Warranty Claim Processes",0.93
+38,"Agent: Hi. Customer: My delivery failed.","Delivery & Shipping","Delivery Problems","Failed Delivery Attempts",0.9
+39,"Agent: Hello. Customer: How long does delivery take?","Delivery & Shipping","Shipping Options","Delivery Time Estimates",0.88
+40,"Agent: Hi. Customer: This product is out of stock.","Inventory & Availability","Stock Issues","Out of Stock Products",0.9
+41,"Agent: Hello. Customer: Why is this more expensive now?","Pricing & Promotions","Pricing Discrepancies","Hidden Charges",0.89
+42,"Agent: Hi. Customer: My invoice email bounced.","Documentation","Invoice Issues","Invoice Delivery to Email",0.94
+43,"Agent: Hello. Customer: I need order confirmation.","Order Management","Order Status & Tracking","Order Confirmation Checks",0.9
+44,"Agent: Hi. Customer: I want to cancel my order.","Order Management","Order Modifications","Cancellation Requests",0.9
+45,"Agent: Hello. Customer: Replacement hasn’t shipped.","Returns & Exchanges","Exchange Requests","Product Replacements",0.92
+46,"Agent: Hi. Customer: My refund amount seems wrong.","Billing & Payment","Refunds","Refund Status Checks",0.93
+47,"Agent: Hello. Customer: Product arrived damaged.","Product Issues","Defective Products","Damaged Upon Arrival",0.95
+48,"Agent: Hi. Customer: Need troubleshooting help.","Warranty & Support","Technical Support","Product Troubleshooting",0.9
+49,"Agent: Hello. Customer: Delivery stuck in transit.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.91
+50,"Agent: Hi. Customer: Points expired unexpectedly.","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.89
+51,"Customer: I’m unable to verify my email.","Account Management","Login Issues","Mobile/Email Verification Problems",0.92
+52,"Customer: Corporate email signup not working.","Account Management","Account Information Updates","Corporate Email Signup Issues",0.9
+53,"Customer: Was my order placed successfully?","Order Management","Order Status & Tracking","Order Confirmation Checks",0.91
+54,"Customer: Need tracking number.","Order Management","Order Status & Tracking","Tracking Information Requests",0.93
+55,"Customer: Change pickup address.","Order Management","Order Modifications","Address Changes for Pickup/Delivery",0.89
+56,"Customer: Cancel my order now.","Order Management","Order Modifications","Cancellation Requests",0.9
+57,"Customer: Appliance stopped working.","Product Issues","Defective Products","Installation Problems",0.91
+58,"Customer: Product arrived broken.","Product Issues","Defective Products","Damaged Upon Arrival",0.95
+59,"Customer: Received wrong item.","Product Issues","Wrong Items Received","Incorrect Product Shipped",0.94
+60,"Customer: Wrong size received.","Product Issues","Wrong Items Received","Size/Model Mismatches",0.93
+61,"Customer: Is my return approved?","Returns & Exchanges","Return Processes","Return Eligibility",0.9
+62,"Customer: Is there a return fee?","Returns & Exchanges","Return Processes","Return Fees and Policies",0.88
+63,"Customer: Need prepaid label.","Returns & Exchanges","Return Processes","Prepaid Shipping Labels",0.94
+64,"Customer: Replace defective product.","Returns & Exchanges","Exchange Requests","Product Replacements",0.92
+65,"Customer: COD not showing.","Billing & Payment","Payment Issues","Cash on Delivery Problems",0.89
+66,"Customer: Card payment failed.","Billing & Payment","Payment Issues","Credit Card Payment Failures",0.91
+67,"Customer: Charged extra.","Billing & Payment","Payment Issues","Billing Discrepancies",0.9
+68,"Customer: Refund status?","Billing & Payment","Refunds","Refund Status Checks",0.94
+69,"Customer: Refund time?","Billing & Payment","Refunds","Refund Processing Times",0.93
+70,"Customer: Courier charges refund?","Billing & Payment","Refunds","Courier Charge Reimbursements",0.9
+71,"Customer: Warranty start date?","Warranty & Support","Warranty Information","Warranty Start Dates",0.95
+72,"Customer: Warranty coverage?","Warranty & Support","Warranty Information","Warranty Terms and Conditions",0.92
+73,"Customer: Warranty claim help.","Warranty & Support","Warranty Information","Warranty Claim Processes",0.93
+74,"Customer: Troubleshooting help.","Warranty & Support","Technical Support","Product Troubleshooting",0.9
+75,"Customer: Delivery delayed.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.91
+76,"Customer: Package missing.","Delivery & Shipping","Delivery Problems","Missing Packages",0.93
+77,"Customer: Delivery failed.","Delivery & Shipping","Delivery Problems","Failed Delivery Attempts",0.9
+78,"Customer: Faster shipping?","Delivery & Shipping","Shipping Options","Faster Delivery Requests",0.89
+79,"Customer: Deliver to my area?","Delivery & Shipping","Shipping Options","Shipping Availability by Location",0.9
+80,"Customer: Delivery time?","Delivery & Shipping","Shipping Options","Delivery Time Estimates",0.88
+81,"Customer: Out of stock item.","Inventory & Availability","Stock Issues","Out of Stock Products",0.9
+82,"Customer: When available again?","Inventory & Availability","Stock Issues","Availability Inquiries",0.91
+83,"Customer: Add me to waitlist.","Inventory & Availability","Stock Issues","Waitlist Requests",0.92
+84,"Customer: Price difference?","Pricing & Promotions","Pricing Discrepancies","Different Prices for Same Products",0.88
+85,"Customer: Hidden charges.","Pricing & Promotions","Pricing Discrepancies","Hidden Charges",0.89
+86,"Customer: Loyalty points missing.","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.9
+87,"Customer: Invoice missing.","Documentation","Invoice Issues","Missing Invoices",0.94
+88,"Customer: Invoice download issue.","Documentation","Invoice Issues","Invoice Generation Problems",0.91
+89,"Customer: Email invoice.","Documentation","Invoice Issues","Invoice Delivery to Email",0.95
+90,"Customer: Account verification failing.","Account Management","Login Issues","Exceeded Verification Attempts",0.9
+91,"Customer: Service center info.","Warranty & Support","Technical Support","Service Center Issues",0.88
+92,"Customer: Replacement pending.","Returns & Exchanges","Exchange Requests","Product Replacements",0.6
+93,"Customer: Update email.","Account Management","Account Information Updates","Email Address Changes",0.93
+94,"Customer: OTP not received.","Account Management","Login Issues","Mobile/Email Verification Problems",0.91
+95,"Customer: Installation support.","Warranty & Support","Technical Support","Installation Assistance",0.9
+96,"Customer: Order stuck.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.91
+97,"Customer: Shipping options?","Delivery & Shipping","Shipping Options","Delivery Time Estimates",0.88
+98,"Customer: Invoice email bounced.","Documentation","Invoice Issues","Invoice Delivery to Email",0.94
+99,"Customer: Refund check.","Billing & Payment","Refunds","Refund Status Checks",0.93
+100,"Customer: Loyalty points expired.","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.89
+101,"Customer: This thing just doesnt work.","Product Issues","Defective Products","Not Working Properly",0.52
+102,"Customer: Where is my stuff??","Order Management","Order Status & Tracking","Delivery Status Inquiries",0.55
+103,"Customer: Cant login again","Account Management","Login Issues","",0.48
+104,"Customer: charged extra??","Pricing & Promotions","Pricing Discrepancies","Hidden Charges",0.57
+105,"Customer: refund???","Billing & Payment","Refunds","Refund Status Checks",0.54
+106,"Customer: delivery was bad","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.56
+107,"Customer: need help","Product Issues","","",0.42
+108,"Customer: my points are gone","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.6
+109,"Customer: cant use cod","Billing & Payment","Payment Issues","Cash on Delivery Problems",0.58
+110,"Customer: still waiting replacement","Returns & Exchanges","Exchange Requests","Product Replacements",0.53
+111,"Customer: warranty??","Warranty & Support","Warranty Information","",0.47
+112,"Customer: invoice missing again","Documentation","Invoice Issues","Missing Invoices",0.64
+113,"Customer: this is ridiculous","Product Issues","Defective Products","",0.45
+114,"Customer: wrong thing came","Product Issues","Wrong Items Received","Incorrect Product Shipped",0.7
+115,"Customer: nothing delivered","Delivery & Shipping","Delivery Problems","Missing Packages",0.66
+116,"Customer: cant change address","Order Management","Order Modifications","Address Changes for Pickup/Delivery",0.59
+117,"Customer: support useless","Delivery & Shipping","Delivery Problems","",0.44
+118,"Customer: friend paid less","Pricing & Promotions","Pricing Discrepancies","Different Prices for Same Products",0.61
+119,"Customer: account problem","Account Management","Login Issues","",0.46
+120,"Customer: pls fix fast","Order Management","","",0.4
+121,"Customer: nothing works","Product Issues","","",0.38
+122,"Customer: order late","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.57
+123,"Customer: cant login sometimes","Account Management","Login Issues","",0.46
+124,"Customer: refund not here","Billing & Payment","Refunds","Refund Status Checks",0.51
+125,"Customer: paid extra shipping","Pricing & Promotions","Pricing Discrepancies","Hidden Charges",0.55
+126,"Customer: order issue","Order Management","","",0.37
+127,"Customer: wrong product","Product Issues","Wrong Items Received","Incorrect Product Shipped",0.69
+128,"Customer: warranty problem","Warranty & Support","Warranty Information","",0.49
+129,"Customer: invoice??","Documentation","Invoice Issues","Missing Invoices",0.62
+130,"Customer: not delivered","Delivery & Shipping","Delivery Problems","",0.45
+131,"Customer: waiting refund or replacement","Returns & Exchanges","","",0.43
+132,"Customer: cant pay card","Billing & Payment","Payment Issues","Credit Card Payment Failures",0.58
+133,"Customer: different price","Pricing & Promotions","Pricing Discrepancies","Different Prices for Same Products",0.6
+134,"Customer: product help","Product Issues","","",0.39
+135,"Customer: change address maybe","Order Management","Order Modifications","Address Changes for Pickup/Delivery",0.56
+136,"Customer: loyalty gone","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.59
+137,"Customer: doesnt turn on","Product Issues","Defective Products","Not Working Properly",0.71
+138,"Customer: otp not coming","Account Management","Login Issues","Mobile/Email Verification Problems",0.53
+139,"Customer: order cancelled??","Order Management","Order Modifications","Cancellation Requests",0.57
+140,"Customer: no invoice email","Documentation","Invoice Issues","Invoice Delivery to Email",0.67
+141,"Customer: this app sucks","","","",0.33
+142,"Customer: cant return","Returns & Exchanges","Return Processes","Return Eligibility",0.55
+143,"Customer: why no cod","Billing & Payment","Payment Issues","Cash on Delivery Problems",0.58
+144,"Customer: shipment stuck","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.6
+145,"Customer: account pls help","Account Management","","",0.41
+146,"Agent: How can I help? Customer: I forgot my password and can’t log in.","Account Management","Login Issues","Password Reset Requests",0.95
+147,"Agent: Hello. Customer: OTP for login never arrives.","Account Management","Login Issues","Mobile/Email Verification Problems",0.92
+148,"Agent: Hi. Customer: I want to update my email address.","Account Management","Account Information Updates","Email Address Changes",0.93
+149,"Agent: Hello. Customer: My account was inactive and I can’t log in.","Account Management","Login Issues","Account Reactivation",0.91
+150,"Agent: Hi. Customer: Can you confirm my order went through?","Order Management","Order Status & Tracking","Order Confirmation Checks",0.9
+151,"Agent: Hello. Customer: Where can I track my order?","Order Management","Order Status & Tracking","Tracking Information Requests",0.93
+152,"Agent: Hi. Customer: My order is delayed.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.91
+153,"Agent: Hello. Customer: I want to cancel my order.","Order Management","Order Modifications","Cancellation Requests",0.9
+154,"Agent: Hi. Customer: I need to change the delivery address.","Order Management","Order Modifications","Address Changes for Pickup/Delivery",0.89
+155,"Agent: Hello. Customer: The product doesn’t turn on.","Product Issues","Defective Products","Not Working Properly",0.94
+156,"Agent: Hi. Customer: Item arrived damaged.","Product Issues","Defective Products","Damaged Upon Arrival",0.95
+157,"Agent: Hello. Customer: I received the wrong model.","Product Issues","Wrong Items Received","Size/Model Mismatches",0.94
+158,"Agent: Hi. Customer: How do I return this item?","Returns & Exchanges","Return Processes","Return Eligibility",0.92
+159,"Agent: Hello. Customer: Is there a return fee?","Returns & Exchanges","Return Processes","Return Fees and Policies",0.89
+160,"Agent: Hi. Customer: I want to exchange my item.","Returns & Exchanges","Exchange Requests","Product Replacements",0.93
+161,"Agent: Hello. Customer: My card payment failed.","Billing & Payment","Payment Issues","Credit Card Payment Failures",0.91
+162,"Agent: Hi. Customer: COD option is missing.","Billing & Payment","Payment Issues","Cash on Delivery Problems",0.88
+163,"Agent: Hello. Customer: I was charged twice.","Billing & Payment","Payment Issues","Billing Discrepancies",0.92
+164,"Agent: Hi. Customer: When will my refund be processed?","Billing & Payment","Refunds","Refund Processing Times",0.93
+165,"Agent: Hello. Customer: Can you check my refund status?","Billing & Payment","Refunds","Refund Status Checks",0.94
+166,"Agent: Hi. Customer: Is my product under warranty?","Warranty & Support","Warranty Information","Warranty Terms and Conditions",0.93
+167,"Agent: Hello. Customer: When does my warranty start?","Warranty & Support","Warranty Information","Warranty Start Dates",0.95
+168,"Agent: Hi. Customer: I need help installing my product.","Warranty & Support","Technical Support","Installation Assistance",0.9
+169,"Agent: Hello. Customer: My product needs troubleshooting.","Warranty & Support","Technical Support","Product Troubleshooting",0.9
+170,"Agent: Hi. Customer: Where can I find the invoice?","Documentation","Invoice Issues","Missing Invoices",0.94
+171,"Customer: Invoice download isn’t working.","Documentation","Invoice Issues","Invoice Generation Problems",0.91
+172,"Customer: Please email my invoice.","Documentation","Invoice Issues","Invoice Delivery to Email",0.95
+173,"Customer: My delivery never arrived.","Delivery & Shipping","Delivery Problems","Missing Packages",0.93
+174,"Customer: Delivery attempt failed.","Delivery & Shipping","Delivery Problems","Failed Delivery Attempts",0.9
+175,"Customer: Do you offer faster delivery?","Delivery & Shipping","Shipping Options","Faster Delivery Requests",0.89
+176,"Customer: How long does shipping take?","Delivery & Shipping","Shipping Options","Delivery Time Estimates",0.88
+177,"Customer: Do you ship to my area?","Delivery & Shipping","Shipping Options","Shipping Availability by Location",0.9
+178,"Customer: This item is out of stock.","Inventory & Availability","Stock Issues","Out of Stock Products",0.9
+179,"Customer: When will it be restocked?","Inventory & Availability","Stock Issues","Availability Inquiries",0.91
+180,"Customer: Can I join the waitlist?","Inventory & Availability","Stock Issues","Waitlist Requests",0.92
+181,"Customer: The price changed suddenly.","Pricing & Promotions","Pricing Discrepancies","Different Prices for Same Products",0.88
+182,"Customer: I see hidden charges.","Pricing & Promotions","Pricing Discrepancies","Hidden Charges",0.89
+183,"Customer: My loyalty points are missing.","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.9
+184,"Customer: Account verification keeps failing.","Account Management","Login Issues","Exceeded Verification Attempts",0.9
+185,"Customer: OTP not received on email.","Account Management","Login Issues","Mobile/Email Verification Problems",0.91
+186,"Customer: Need to reactivate my account.","Account Management","Login Issues","Account Reactivation",0.92
+187,"Customer: Order stuck in transit.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.91
+188,"Customer: Can I cancel after shipping?","Order Management","Order Modifications","Cancellation Requests",0.88
+189,"Customer: Replacement has not shipped.","Returns & Exchanges","Exchange Requests","Product Replacements",0.9
+190,"Customer: Courier charges refund?","Billing & Payment","Refunds","Courier Charge Reimbursements",0.9
+191,"Customer: Warranty claim process?","Warranty & Support","Warranty Information","Warranty Claim Processes",0.93
+192,"Customer: Where is the service center?","Warranty & Support","Technical Support","Service Center Issues",0.88
+193,"Customer: Wrong item delivered.","Product Issues","Wrong Items Received","Incorrect Product Shipped",0.94
+194,"Customer: I got the wrong size.","Product Issues","Wrong Items Received","Size/Model Mismatches",0.93
+195,"Customer: My product stopped working suddenly.","Product Issues","Defective Products","Not Working Properly",0.92
+196,"Customer: I can’t log in right now.","Account Management","Login Issues","",0.6
+197,"Customer: Login sometimes works, sometimes not.","Account Management","Login Issues","",0.55
+198,"Customer: My order hasn’t updated.","Order Management","Order Status & Tracking","Tracking Information Requests",0.89
+199,"Customer: Order confirmation missing.","Order Management","Order Status & Tracking","Order Confirmation Checks",0.9
+200,"Customer: Please change my delivery address.","Order Management","Order Modifications","Address Changes for Pickup/Delivery",0.9
+201,"Customer: Return not allowed?","Returns & Exchanges","Return Processes","Return Eligibility",0.88
+202,"Customer: Return label not received.","Returns & Exchanges","Return Processes","Prepaid Shipping Labels",0.93
+203,"Customer: Exchange request pending.","Returns & Exchanges","Exchange Requests","Product Replacements",0.89
+204,"Customer: Payment deducted but order failed.","Billing & Payment","Payment Issues","Billing Discrepancies",0.91
+205,"Customer: Refund taking too long.","Billing & Payment","Refunds","Refund Processing Times",0.9
+206,"Customer: Warranty details unclear.","Warranty & Support","Warranty Information","Warranty Terms and Conditions",0.9
+207,"Customer: Need installation help urgently.","Warranty & Support","Technical Support","Installation Assistance",0.91
+208,"Customer: Delivery partner didn’t contact me.","Delivery & Shipping","Delivery Problems","Failed Delivery Attempts",0.88
+209,"Customer: Shipment delayed again.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.91
+210,"Customer: Stock not available online.","Inventory & Availability","Stock Issues","Out of Stock Products",0.89
+211,"Customer: Notify me when available.","Inventory & Availability","Stock Issues","Waitlist Requests",0.9
+212,"Customer: Price higher than yesterday.","Pricing & Promotions","Pricing Discrepancies","Different Prices for Same Products",0.88
+213,"Customer: Unexpected service fee.","Pricing & Promotions","Pricing Discrepancies","Hidden Charges",0.89
+214,"Customer: Loyalty points expired.","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.9
+215,"Customer: Invoice not generated.","Documentation","Invoice Issues","Invoice Generation Problems",0.91
+216,"Customer: Didn’t receive invoice email.","Documentation","Invoice Issues","Invoice Delivery to Email",0.94
+217,"Customer: Account locked after attempts.","Account Management","Login Issues","Exceeded Verification Attempts",0.9
+218,"Customer: OTP coming late.","Account Management","Login Issues","Mobile/Email Verification Problems",0.9
+219,"Customer: Replacement item damaged.","Returns & Exchanges","Exchange Requests","Defective Item Exchanges",0.93
+220,"Customer: Product installation failed.","Product Issues","Defective Products","Installation Problems",0.92
+221,"Customer: Order status unclear.","Order Management","Order Status & Tracking","Tracking Information Requests",0.88
+222,"Customer: Cancel request not processed.","Order Management","Order Modifications","Cancellation Requests",0.9
+223,"Customer: Address update failed.","Order Management","Order Modifications","Address Changes for Pickup/Delivery",0.89
+224,"Customer: Return approved but no pickup.","Returns & Exchanges","Return Processes","Return Eligibility",0.88
+225,"Customer: Exchange delayed.","Returns & Exchanges","Exchange Requests","Product Replacements",0.89
+226,"Customer: Card payment declined.","Billing & Payment","Payment Issues","Credit Card Payment Failures",0.91
+227,"Customer: Refund credited partially.","Billing & Payment","Refunds","Refund Status Checks",0.9
+228,"Customer: Warranty expired?","Warranty & Support","Warranty Information","Warranty Terms and Conditions",0.9
+229,"Customer: Need service appointment.","Warranty & Support","Technical Support","Service Center Issues",0.89
+230,"Customer: Delivery rescheduled.","Delivery & Shipping","Delivery Problems","Delayed Deliveries",0.9
+231,"Customer: Faster shipping unavailable.","Delivery & Shipping","Shipping Options","Faster Delivery Requests",0.88
+232,"Customer: Item unavailable.","Inventory & Availability","Stock Issues","Out of Stock Products",0.9
+233,"Customer: Restock ETA?","Inventory & Availability","Stock Issues","Availability Inquiries",0.91
+234,"Customer: Discount not applied.","Pricing & Promotions","Pricing Discrepancies","Hidden Charges",0.88
+235,"Customer: Points not credited.","Pricing & Promotions","Pricing Discrepancies","Loyalty Points and Rewards",0.9
+236,"Customer: Missing invoice.","Documentation","Invoice Issues","Missing Invoices",0.94
+237,"Customer: Invoice download error.","Documentation","Invoice Issues","Invoice Generation Problems",0.91
+238,"Customer: Email invoice again.","Documentation","Invoice Issues","Invoice Delivery to Email",0.95
+239,"Customer: Can’t log in after update.","Account Management","Login Issues","",0.6
+240,"Customer: Login verification loop.","Account Management","Login Issues","Mobile/Email Verification Problems",0.9
+241,"Customer: Replacement wrong model.","Product Issues","Wrong Items Received","Incorrect Product Shipped",0.93
+242,"Customer: Product arrived scratched.","Product Issues","Defective Products","Damaged Upon Arrival",0.94
+243,"Customer: Return pickup missed.","Returns & Exchanges","Return Processes","Prepaid Shipping Labels",0.9
+244,"Customer: Refund pending approval.","Billing & Payment","Refunds","Refund Status Checks",0.92
+245,"Customer: Warranty claim rejected.","Warranty & Support","Warranty Information","Warranty Claim Processes",0.9
