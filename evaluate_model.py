@@ -16,7 +16,7 @@ INPUT_FILE = "app/data/evals_conversations.csv"
 OUTPUT_FILE = "app/data/evaluation_results.csv"
 CACHE_FILE = "app/data/eval_cache.json"
 
-START_FROM = 938
+START_FROM = 1
 END_AT = 1000
 
 REQUESTS_PER_MINUTE = 20
