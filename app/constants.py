@@ -191,3 +191,6 @@ EMBEDDING_MODEL = "BAAI/bge-base-en-v1.5"
 
 HF_API_KEY = os.getenv("HF_API_KEY")
 HF_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_MODEL = "gemini-1.5-flash"

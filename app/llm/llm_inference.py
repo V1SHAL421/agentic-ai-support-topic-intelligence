@@ -3,6 +3,7 @@ import json
 import logging
 from pydantic import ValidationError
 from app.llm.knowledge_base import retrieve_knowledge
+from app.llm.providers.gemini_provider import GeminiProvider
 from app.llm.providers.groq_provider import GroqProvider
 from app.llm.providers.hf_provider import HuggingFaceProvider
 from app.llm.provider import LLMProviderError
@@ -15,6 +16,7 @@ logger = logging.getLogger(__name__)
 
 groq = GroqProvider()
 hugging_face = HuggingFaceProvider()
+gemini = GeminiProvider()
 
 def infer(system_prompt: str, user_prompt: str):
     logger.info("Starting inference process...")
@@ -29,14 +31,14 @@ def infer(system_prompt: str, user_prompt: str):
     
     # Try providers with fallback
     try:
-        raw, usage = groq.infer(system_prompt, full_prompt)
-        provider = "groq"
+        raw, usage = hugging_face.infer(system_prompt, full_prompt)
+        provider = "hugging_face"
         logger.info("Groq response received, processing...")
     except LLMProviderError as e:
-        logger.warning(f"Groq failed, falling back to Together: {e}")
-        raw, usage = hugging_face.infer(system_prompt, full_prompt)
-        provider = "together"
-        logger.info("Together response received, processing...")
+        logger.warning(f"Hugging Face failed, falling back to Together: {e}")
+        raw, usage = gemini.infer(system_prompt, full_prompt)
+        provider = "gemini"
+        logger.info("Gemini response received, processing...")
     
     logger.info(f"Raw {provider} output: {raw}")
     
@@ -81,17 +83,17 @@ def repair_output_prompt(raw: str, provider: str) -> str:
     
     # Use the same provider for repair
     try:
-        if provider == "groq":
-            repair_content, _ = groq.infer(repair_system_prompt, "")
+        if provider == "gemini":
+            repair_content, _ = gemini.infer(repair_system_prompt, "")
         else:
             repair_content, _ = hugging_face.infer(repair_system_prompt, "")
     except LLMProviderError:
         # If repair fails, try the other provider
         logger.warning(f"Repair failed on {provider}, trying alternate provider")
-        if provider == "groq":
+        if provider == "gemini":
             repair_content, _ = hugging_face.infer(repair_system_prompt, "")
         else:
-            repair_content, _ = groq.infer(repair_system_prompt, "")
+            repair_content, _ = gemini.infer(repair_system_prompt, "")
     
     logger.info(f"Raw repair output: {repair_content}")
     return repair_content or "{}"

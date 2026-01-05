@@ -564,3 +564,954 @@ Agent: Goodbye.",ERROR,ERROR,ERROR,0.0,0,0,0
 264,d32c65bbe63c34ed4cc479339a394982028974326f83d672adceeb4ec3c39fb8,Product Issues,Wrong Items Received,Incorrect Product Shipped,0.95,4760,659,34
 265,9103e19d358486ddebc4a279e2f41a9dd35e5ebce7b9b8eebbb06fcba44c0484,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,4906,637,32
 266,cd64c1022bee4e983fe036b10b652f2a48be10da922cd9f1bcfd3a0ca73d5ca0,Returns & Exchanges,Return Processes,Return Eligibility,0.95,4665,562,38
+1,25179b9bd8ad7f40444c865b08580731db551a9bd268fdfe618094ff19484b72,Account Management,Login Issues,Password Reset Requests,0.95,6775,538,32
+2,eb2beb5b3a494a275d9fe1b25dd0f4786c3e82d356292c2a9880fff073066199,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5936,525,39
+3,3345d622b99aab4df45b59efba983e8e8e0e5f09946837cd8d5fd21fa9b71756,Product Issues,Wrong Items Received,Size/Model Mismatches,0.0,5238,691,32
+4,ff9122a1b0bbb71b9fa7c33689f9f5ea7fb8412d472c67f3963c1f2d8df4e3e2,Account Management,Login Issues,Password Reset Requests,0.9,6051,659,32
+5,05d7cf3c536048da476edf517cf3b226e5b763657e4d02335697983181c75ec1,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5834,838,32
+6,6c96abadb617d13279fc89507007f61e9a33976f78db6e93635028592727e4c3,Account Management,Account Information Updates,Email Address Changes,0.0,5199,700,34
+7,b93f3b7ec0ef8f89582dc4dd210e45448a6727d31f9fb1ec58fef32e88555108,Billing & Payment,Refunds,Refund Status Checks,0.0,6777,731,31
+8,d8212f794013cd4d5bf830c2d9df000ced348ed3c54b4c1f864cc562e2e89989,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,36551,571,33
+9,0ab9eaba25de815700055b5967e459b7b8193d39512628431d77946cd683645b,Product Issues,Defective Products,Not Working Properly,0.9,9701,701,33
+10,b7a2ffb3dceea32ddb275b6ab4203324325b4f5a75b9f2d7eeb94beed94c3817,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,7681,645,32
+11,d73f9b811bbf1c1946e182077b46d88c1bec631036691f160e0fdcc17774776d,Order Management,Order Modifications,Cancellation Requests,0.9,22526,468,33
+12,897eee7ec22090f13d79d7f994eaca209db223126060666e64aa95f426ede91b,Warranty & Support,Technical Support,Product Troubleshooting,1.0,17806,611,32
+13,72285ee372d6265f28c2da8f3e4a27cde6e621ebccd819aff78e6cc9021340fb,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,9207,555,32
+14,72a48c7b69255c76c50446b8665583bc9328d73606cc36a7c27542bdac945611,Product Issues,Wrong Items Received,Size/Model Mismatches,0.95,8107,773,32
+15,18fd44e37f72c7fde848fead484fd3043d33d3e61c6d6043c76aae7d349af06a,ERROR,ERROR,ERROR,0.0,0,0,0
+16,610d42afdff06745c1193456aa2bf5f6a52a5cc937ab8504831f8497beabe08a,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,4851,582,39
+17,7e43bcae27100554034e79f8450dfac829a6e817b629eef158f691301fec9002,Warranty & Support,Warranty Information,Warranty Start Dates,0.0,5424,404,31
+18,43d0ac03e441c403eb0461a7a5553e9be33f01e99872f6027e34513f6f43f1f2,Billing & Payment,Payment Issues,Credit Card Payment Failures,0.9,5805,683,35
+19,a6365d85e0337c003717db4fc9ef300309dfb12770a803e4aad5b4d2d863d1bd,Billing & Payment,Refunds,Refund Status Checks,1.0,4868,776,32
+20,a1efffd2b56b5a171ac620d5be53529b43e4f3f81d5d7b34103c85c22a686bec,ERROR,ERROR,ERROR,0.0,0,0,0
+21,141af16e8fb7d10c5830a9e22ee0da72dea8aafbbb77a8d96e8fae39239f7e47,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5465,827,32
+22,2fede45ebb758cfeb42cee8aaf76dfc5d37a23917392e4ab2e37114181e0d8d1,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4973,538,31
+23,f1c09f2d7f5b85c9c60cb8d489846647ddbac1aab42bde65518bcdcae634e1be,Account Management,Login Issues,Password Reset Requests,0.9,6063,676,32
+24,4d0e695b74937d8d6af093a35ffbdc22e08efe37e5f79d5143c13395d86dddf1,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.8,6169,658,33
+25,a607e5b068211bfde72576507f69c73af43b0ba35b4db9cff1c5843e01bfd46c,ERROR,ERROR,ERROR,0.0,0,0,0
+26,87a05a011a9ceb068833e3f612bf19229301a6f432fe833d74025e8efd13421c,Warranty & Support,Technical Support,Product Troubleshooting,0.9,5458,710,32
+27,e24f203fc81ce860a460ca716571884ce3a6d1594543db928210b331dcfbd972,Account Management,Account Information Updates,Email Address Changes,1.0,5708,623,33
+28,482b26cc5da2cbf35cdb13052bf5ecd6e9c4d5e7482d988e014073604bf175eb,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5431,619,32
+29,8efac5a01933e132d95594be4dfe8a328194560d41b71e55a0ac5918c9e6dbfa,ERROR,ERROR,ERROR,0.0,0,0,0
+30,e89c20f5795d08838901dea8e84a71d8133c8d41a63c5f9185ba29f4a8a84f44,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.95,5110,701,37
+31,6e153e20e5bc578ee90a1b71847f71d1ff7c6ccb2a6712bb7ea848cb48342480,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5028,748,33
+32,4c9c5a666e8759f20abe2a123941bdff258acefdce707f3d7305fdfff8ae2de2,ERROR,ERROR,ERROR,0.0,0,0,0
+33,7f81722d206020135deb28f1bf2ac31f789677b46574aed4feddd4c7de777c41,ERROR,ERROR,ERROR,0.0,0,0,0
+34,15286bf50f58f4d296d6805656f3aa4399234cb0345730206b66820ca15b840f,ERROR,ERROR,ERROR,0.0,0,0,0
+35,6d4dc56308ead57779ee5d709ff61a5de4fa07281b53a87d6e1420830b80b9a8,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,6182,584,31
+36,44542bded8a0794e5736d863f06400a4fb917f928ba1e8f399dfa3769e7c7cd0,Product Issues,Defective Products,Not Working Properly,0.9,5525,681,34
+37,019ce81e92e676a096ea0902cae34eefdfe457401dc348db053ba3b6f98dde88,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4868,754,32
+38,2d23479821f01c864eaa8ce6b724b5d5de95f3f0546f3a6d39f9efd91a329091,ERROR,ERROR,ERROR,0.0,0,0,0
+39,ebe29fa06d29df3a5437660dceb8df3bbb8bdf457983fe650ed6293d0f1f519b,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5626,836,33
+40,fbdd3cc0cbb067928d82c0d1b11a174c6350c3d886444b15c0ed2bb80ce1d8b5,Account Management,Login Issues,Password Reset Requests,0.8,5267,639,32
+41,c4c31e05cd910e3dff6c1a114655442ed13efd54f711681fbe6c56183fe48369,ERROR,ERROR,ERROR,0.0,0,0,0
+42,c4c2b62bfd854e719b94d57a787e556db39f5465171120fe3417d241154d0769,Billing & Payment,Refunds,Refund Status Checks,0.0,14027,810,32
+43,e458ba4ccd0e5426b92fe5969d2fd26332346a117832a2fa142d3f9f27ed43a4,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,7838,686,33
+44,24d03927bec4ac8fcf19b2a7e5abec79fa9648b3b9c1375027aa0f0f590cd21f,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5849,720,35
+45,a68654917515acabea138231c7f77d4e2782d6c7f93e2809f6316f0d70ceea0a,Returns & Exchanges,Return Processes,Return Eligibility,0.9,6677,518,34
+46,2a6373ccaf1a08747b4b8cb1f100f4aea67836b08acaf0afd21f2c7fc747807f,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4921,837,32
+47,a7d7cd992fc95c3f829cbe39056b8a0c1bc3c4b253f5eca11f5b57f880a3f819,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5197,627,31
+48,ce67b330a1d9edd6e0862e51ae70da0a370eefd733d79c50fa48f125da6e46cd,ERROR,ERROR,ERROR,0.0,0,0,0
+49,d646f7e1f7a670425bd602698dd82ad4669ca9158b94bb91fc435e4e58694a79,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,5596,589,31
+50,841c734f31fe5475f1ebce50d2fda123e0d5759c28fedca602e45c02199bc693,Warranty & Support,Technical Support,Service Center Issues,0.0,5052,749,32
+51,d47e8c05a76f30502e3ff8abf9de2b5cbdd4f32e201acf7ffefeb1469fec35af,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.0,5328,664,34
+52,7b1e3e928a1c575aa526b39300fe31aa467482e61f486c11dbf8fbc5cf10d38b,Product Issues,Defective Products,Not Working Properly,0.9,5896,756,36
+53,9f37fc7e79c14918cd2ab3b1bb0458173f536e2649721b13f34762c72a9a664c,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5617,541,32
+54,1ded0049e563a5d01827fa4e3981a96a1ad044b96aab8207a559df67e10a8143,ERROR,ERROR,ERROR,0.0,0,0,0
+55,d33fe5e9e10793d21f99abaf72103abb92f2c3ff03e866fa2aba323a6ab69fdb,Returns & Exchanges,Return Processes,Return Fees and Policies,0.9,6315,788,32
+56,11e3883a0b5e5fe8fb0084ea864be9f698aca923affa2e1bee57df6715bf1df5,Billing & Payment,Refunds,Refund Status Checks,0.0,5594,808,31
+57,70979828b0659cd1e70b5ba47d677ae45798d8e95f6eb4412baeb9f75c1acfe8,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,7200,412,32
+58,2f3803597dee9d2e3e1efc6e608de25884e2ee935d0bccb0fa0252bffde397cb,ERROR,ERROR,ERROR,0.0,0,0,0
+59,0ab6a13b65427bae04869600f20d0316fe8e1e3e50b6da2627e8811111bf60c4,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.9,6003,955,34
+60,2b1fb68f523359ce945750e6b0335c34495d72cd16bbffb9bf0cbfc5c9770716,ERROR,ERROR,ERROR,0.0,0,0,0
+61,ef9ab4908ab4c4c599cef03aae89962492bb52c325245633df9b42292c319156,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4691,425,32
+62,f2e55693839b6620411984adb2146fa49348342e99b19f5473d139654e9367e9,ERROR,ERROR,ERROR,0.0,0,0,0
+63,07cd271eb0bbe64e90ef7d4aa7f944094611ad5dcec86126cc659b3909e8bbeb,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.95,5146,603,33
+64,960365782ffffcc1e39a308a3d7c1c1f9e8b45ffe894b39a93ec3a52dd3da771,Returns & Exchanges,Return Processes,Return Eligibility,0.95,5047,727,33
+65,97f3fd8c6eebf3e5d8616c2f649782fd66b7790ddb80913e7263239c57f77907,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,4783,606,32
+66,c2b2f619f434d39c8dc31f11e4bae35a53e4576ef542eb05e9a26671f6736cb5,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4908,577,31
+67,b6dc983b6924b718816538efdeb82e2ae75e1130628eb36e9c61915fcbe133a2,Billing & Payment,Payment Issues,Credit Card Payment Failures,0.8,6264,934,32
+68,547beb8299ff022a1db12d4195bda272d04baa7a3f3880cb26d03fc34070cff6,Warranty & Support,Warranty Information,Warranty Start Dates,0.0,5245,433,33
+69,67c5aa1c0a1356cf896f55a4433c0043886c173a359ef8c7c3ef01a001d2d9d9,Product Issues,Defective Products,Installation Problems,1.0,5008,549,32
+70,ff83d89d322a0b2794f0d497d9dd06c088db0e8db1b1cdb60afebec550bed047,Billing & Payment,Refunds,Refund Status Checks,0.0,4665,813,32
+71,a81b0f15902457368beafd4091c581118a6348de1abd11b5435342dd47088101,ERROR,ERROR,ERROR,0.0,0,0,0
+72,53426d4e7ac08899902c3b66599deb4cf95883f98ad29ca72f32f39f74a9ab1f,Account Management,Login Issues,Password Reset Requests,0.9,5069,606,32
+73,b6e98c122ebba59f816917b28358bc50a862b1d541cb971d5b4dba5a19d62f87,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5174,834,31
+74,253c9dcd9d49258159358656b99bf4c1c219e2ce8d739b7809c3645eeebef14a,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.95,5655,759,33
+75,7bf1f943fe0c7eddcaef78ddd88de05e0d312972c9a6a93f23fed0890ba21559,Account Management,Login Issues,Password Reset Requests,0.9,4708,788,32
+76,c3cf629a7becde9f594f9f32f6318805bd25cf5d67b18278ebbde814e0ac46ec,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.0,5083,536,34
+77,6e25b2f7fe8893a7df5f160c3275cfd5afb5fcaaaadba4608f69ca0a70847abf,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.9,5089,984,33
+78,07e0439202e8b5bf4f6d7da29d7a541bca2c269aec8d2589cbf0c728e5ea946c,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5671,685,32
+79,2db301891d23c6d2a54d010718e5db0824823170db0a5abd47c9009ec9adaee5,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,5918,626,33
+80,57276a0ee37dbc24854c1c0f967b09cdf11e5172898055816d94066c569cc7b9,Account Management,Account Information Updates,Mobile Number Verification,0.0,5084,655,33
+81,067b3ff692348c7ef33ffadc0c7c3f543d26540f538758c50f4e899ce4cfb474,Billing & Payment,Refunds,Refund Status Checks,0.9,5316,627,33
+82,9f6f91d2be2c11e5344f5b91b67740dc09a8c3aad29ca0bcc372860ee7866f30,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4923,424,32
+83,f25b0bdd6ac7ea5bd03ebbef23c04a20cd2be605ed9ba88d292f618afae9d189,Documentation,Invoice Issues,Missing Invoices,0.9,4801,607,30
+84,d20be1f9175143146ad54a951905e655b1054247993eb4b151bd0cdf07117f15,Product Issues,Defective Products,Not Working Properly,0.95,4692,594,33
+85,d92ac437072db5871c8b1343905f63328b4ccd70fbc96f8687251eb0ee78cbee,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.9,5800,555,30
+86,c2a74f0f376ba5d776adfa8540966a20cc35c7f77d0ce035c2133cb875a92c45,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5152,670,32
+87,bd1cb0c39ae1b59d2a76c90ee5fb5c5b8c506b94db3cceb511b3e9efcf3376ad,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.0,4798,725,33
+88,b957d5de84002c74b0200f81c437e2cd41ba0dc29a7cf800d78e7c8653898aad,Product Issues,Defective Products,Not Working Properly,0.8,4722,743,32
+89,a81838cfd5ea13df45daffde7d9a9373cbe07a6e02ac0ef308ba71bf1ecd8851,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5988,668,33
+90,d5f935403c311b996483d72426f889e92d7be75c04afcbe9df3382d2e1685200,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,5394,495,31
+91,0e604455250b118ea0db13383a8e15a5f20e269163d7c4e3a066ac1f84a5de45,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.95,4656,580,32
+92,8639885385d0f90f256264d5f05b8a16929e99e331d8c8acad8f1dc990e76264,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,5391,512,33
+93,a22979c31e9a7c749da7d5313a90eb6fd7f2024707338faa02be88e0cc835d65,Account Management,Account Information Updates,Email Address Changes,0.95,5213,577,33
+94,8373f026c366b90242b77754b393781b8a7c3f7b7aa7fdb930a8c1cbde8687c4,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4919,732,32
+95,cde3dc8c2befac8c1eab2d6c92179651d9dfd28e768290a27602c1a47d3f5100,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,4895,514,32
+96,4846422925c217887295363561111149d0cfacd1a2de8a55538102ef2a5a3255,Product Issues,Defective Products,Not Working Properly,0.9,5111,687,34
+97,adc1e8205d0bf5b953d84f29f302ca86fd696f5ef6348effe965ccde7788cc34,Warranty & Support,Technical Support,Product Troubleshooting,0.9,4761,510,32
+98,41a7e7dcc8ece2a2427edf99b7248ab9f75593da22dbe9c2d901588480154b64,Returns & Exchanges,Return Processes,Return Fees and Policies,0.8,5910,532,31
+99,51d6376a648292573b500d0434da5ac1dfbe732714bdd626ad142b262ce9d98f,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5386,727,32
+100,d71489b5d70f2a3f73772b948208dc14054cd8f4791a31cfdd0ebf8119d816e2,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,5171,871,34
+101,95dd98f454e88d7c37aa22d2699643e6e6c82ab4e0a4218b387fe4c5b5b954f7,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.8,5699,442,42
+102,6f2460eb6495d8681783dcd3fcc01692004efdd62747d209a9ac036a187b7983,Account Management,Login Issues,Password Reset Requests,0.9,22072,598,32
+103,13988fff51c6261718d1e33e7b66d613c5b1c6a305ef2733a9a3fb15aa79079c,Returns & Exchanges,Exchange Requests,Product Replacements,0.0,5185,676,31
+104,e5c1bdba0b15bb98b1e5b93a347224a6fd28e7faececa0302a2f0238dfa00346,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5066,585,30
+105,e8d5910ec28e7e2dfc4f7c820618a4917df6b26c8e05d0b8b5039f01fa38ae27,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4562,649,32
+106,044d70eb450f3620dcf69601ba5c2e705f63567d85e4bab0fccf36476db2008d,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,5038,530,32
+107,af26f98db597a5d8122909db5b289e0beb397ab2dd54484986b83cf17a41d246,Account Management,Login Issues,Password Reset Requests,1.0,5667,556,32
+108,2cac4e381f0da88fac43b2b7c593426c8ae2694d59b3ab7083064efaa7d6e03e,Account Management,Login Issues,Password Reset Requests,0.9,5141,666,32
+109,315cc415b6904e49be814a5801e556df3da2db33f00c5981a0ba2fb827cce4a6,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5542,793,33
+110,e89886ea0704ecf89bdd9938bbcaf95139064418e7a124a2d2d05111e08d8472,Returns & Exchanges,Return Processes,Return Eligibility,0.95,12631,659,35
+111,b02a695fba748b1df0788d85b2e10dfac8961f2cee4dba790bf654de445df545,ERROR,ERROR,ERROR,0.0,0,0,0
+112,b2788ed169ba01bf44cc6aadd8d8ef6350c6c206fc412005fc3d7f3f624b2e2a,Account Management,Login Issues,Password Reset Requests,0.8,5032,712,32
+113,c8ddf11db5f3636f697b5d862d1a220cd64f819df378442799d856d6b4a2c348,ERROR,ERROR,ERROR,0.0,0,0,0
+114,c40b5fe9a36d8b1265ee99310d3a68240af735d341967266d63d4f2b7c3687fc,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,6747,574,32
+115,0f9691c1c852949df77c6c86564c736524b0c57f2434102d084b17d7fc479cdd,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,5204,572,32
+116,a6154ec27f6f1679b3ddc4c2b07fc57e2ee030994bf618555ed30606e5463380,Product Issues,Defective Products,Not Working Properly,0.9,8878,690,34
+117,951b9d22b94d3e6d91374e4f7779ffdff8d5bd1f46116cdf6ff3ffbee72227f3,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5455,528,32
+118,4608ceb287627ca632a17350aa4109533cfa47373163bee429d516876f89bdd0,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,5402,583,32
+119,5b411d70418a849686c571e42862b2379c48ed2be0bb059f1d6277bbc9d11379,ERROR,ERROR,ERROR,0.0,0,0,0
+120,81714a665d639cff408cb7131733d70ee462866d72ce2b23f9ad74e12fff737b,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,7676,746,33
+121,7623261a0c0512766172ebd9492cde9e2f88df47cca1ac37cf191e8e2c237c3c,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,7758,646,32
+122,57640dbbb572d9a66768adc916d32f57267811368e2dc27329c0030d6ee4c0af,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5403,566,39
+123,fa918aabd08527b6c770029b5bb50ef7981464c0a689183ddbe0511a5a3bd963,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,4835,787,32
+124,f0aa443d3b8c567b564c66910e3a76460448abec07fd2738b662d5a6ba0fb413,ERROR,ERROR,ERROR,0.0,0,0,0
+125,4dbc91f5c7f29e790e5fc484d6afdda6ad0cf26ab3a5829fe8a876544061ff91,Product Issues,Defective Products,Not Working Properly,0.0,5008,711,33
+126,d9aa937dcf8d79825f9dd3b71e0aab70e9873c67a8fbda61198a31565470d224,ERROR,ERROR,ERROR,0.0,0,0,0
+127,5efee09fb8f330d508ea7a9aae58afd164e84723de441cd9eeacf540f94ab984,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,4794,699,32
+128,4a4cc99ab44d5af9ca86f3fc1e48a51eb302b27d561224ce06e734043cc163a4,Account Management,Login Issues,Password Reset Requests,0.95,4533,563,32
+129,7b16df3ec245d67221d51971959d4e92db704dba3352ad72060196e141032669,Order Management,Order Modifications,Cancellation Requests,0.9,4819,516,33
+130,a5f9b0242f0eefef56e9560d97057420491ba7f356b39583074afaf71ce5372b,ERROR,ERROR,ERROR,0.0,0,0,0
+131,283067bc1e3deef314f6b31c6d08308adfe7c5ffc3e226a43fe65347f0d78ed3,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5009,577,31
+132,fe7744384ae65b33603f8a6d381dbf64642b33e3a7ecb8bf77fe4474f6497d33,ERROR,ERROR,ERROR,0.0,0,0,0
+133,86bbd4b6fb1bf329d8f168f90fb3f409489824bcaf08da0aedb3d5e587a3ea49,Product Issues,Defective Products,Not Working Properly,0.0,5125,578,33
+134,d3a040527700a1baf4a3112003b64235d0abc02c7e5d36e11cf361472af09e1d,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.0,4720,730,30
+135,23d3e0421bd4fd11807da1d3b8d7811a5e5db8c917f593a71021fb997f375caf,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,4814,474,34
+136,4e4726c4d6164698fcb51363a708de306626a3da1323fde9ba5bf3e523a336d9,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4608,730,31
+137,2cf1305c93049db4223cc85ccb9d6fe74aa5ccc5ca4ef57f676fba881333119a,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.9,6529,621,33
+138,25d280b22caa6d69f7536ae72deae4a6cf26c6a31e49b0732b73ad2499aa3565,ERROR,ERROR,ERROR,0.0,0,0,0
+139,a24096be720f6411d4e311b5b4c62b15dffcefe011047ba357753028a22b3d52,ERROR,ERROR,ERROR,0.0,0,0,0
+140,4c27ae6a9ad69e3f505faf7e3a4522728af03ab3e63af16397de403a4e76e9cb,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,9489,453,31
+141,f15c79eb20c3c092cfb0d0830fbe233470ad0234f56c1eed96c644e9c1c4b76b,Product Issues,Defective Products,Not Working Properly,0.9,5426,594,34
+142,d0a2ef80b7d1d9c2e4f2767addbb962ece2482153f234cca83970c67652852b0,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,4936,531,33
+143,361bbc2242c71094b43c0a06bf64a5b5e99386cb53fb93d291231e03fdabd21f,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,4672,592,32
+144,3d43d4d67a6e09b8194e497206478fea863e9814704b1ea0cb8bb8c276b62fe0,Returns & Exchanges,Return Processes,Return Eligibility,0.8,4912,744,33
+145,0d55282dab50c6cd833c5540afb949d906b54d5517b48d6a26a443ca5a98bb1d,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5010,520,32
+146,67374076a41b0efab78e8c7c45e03656de0ca45bebe90601f1d0838a4b2173bf,Returns & Exchanges,Return Processes,Return Fees and Policies,0.9,4901,995,32
+147,d54d42bbace25f485e9860e7144957f4302bd892259364cec2da17ac121e3a52,ERROR,ERROR,ERROR,0.0,0,0,0
+148,1351acf04b2955ded96c4b38c4365cac9f421c6408bbf0ae63a5041dabe47067,ERROR,ERROR,ERROR,0.0,0,0,0
+149,db75fde15f48229a1a640eb8b2a77e47c8ec4346f6f70c2fc878850ac77ced54,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.95,5108,642,32
+150,425aed69fcda1685bd614b7c8c05e30a5203b17012be30e4b7a89c77b51635e0,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4976,562,32
+151,de9abf54129175d19dbf8f74c2e7cc38300f18be063e6f9cae52dad0024c89f0,Delivery & Shipping,Delivery Problems,Missing Packages,0.9,5403,569,33
+152,9ea26955e245d87749640519ae238d63e6b43e0448ed8986592b5a50b36094df,ERROR,ERROR,ERROR,0.0,0,0,0
+153,32555d67e2cdaf7e00c0bda6754741a2926380d59b6cb3387abfa9fb05c00657,ERROR,ERROR,ERROR,0.0,0,0,0
+154,6840ff8201745e26271c1bfef37ea58274ca8b5c020e84bb46ae327d7e1284f7,ERROR,ERROR,ERROR,0.0,0,0,0
+155,70dbf7ad4c7d5f22826bdef10c313b851bdffd79982bd793d1848f5de7a9a576,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.5,5267,589,32
+156,27e79c495c3b44f5c1311d16871fb59af4ce50014ce109031529a8df10994507,Product Issues,Defective Products,Not Working Properly,0.9,4727,703,35
+157,5273b08b9526fd34aec414a3725da3db2babf6852362a9fa6173030f360c4a3e,Returns & Exchanges,Return Processes,Return Eligibility,1.0,5029,558,37
+158,a714c8f2ebbad9f1ce27c107f3dbaec6d94bfe0edf73538c0c9bc9161a91df72,Account Management,Login Issues,Password Reset Requests,1.0,7972,585,32
+159,a41d3606034bf07aca0464c9c6d63a89da2a35eda284b2d9ef17ac6de7115255,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,5126,433,32
+160,4aee729c2118d1548460001f5ffb0ab99380b4e2accc2c0e25764514ef92e650,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4743,804,32
+161,307412734728345d0ea529a1ff6dcdb9ef07a6ba83bb01a2778165b30f7d4f35,Account Management,Login Issues,Mobile/Email Verification Problems,0.0,5505,642,32
+162,118a9df1b15b949497b857750be752dd96b6e387c011a98e5a76bc8612092d84,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,5088,575,32
+163,50c94a530e392b70a154670d75f842f0edee5fa6fd8c1f3dfa2317bfd78ea6ea,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,5789,802,33
+164,d3ad3854062708f88830590d189bb1f002b00b117235da507b398947533bc0d6,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5383,672,38
+165,5d4993d8392533f46c576bc6e4dc506319718d5f3b7779cbbaf44cb6173a8621,ERROR,ERROR,ERROR,0.0,0,0,0
+166,206b7ae996e1787aed9eb031c0c9d0b0598c5712adfd00e7cc3ee93b08e48ec7,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,5094,572,32
+167,e70c37557bfcff87250efd86657f89f497e5617423c46ef8aa41629da9c08e01,Order Management,Order Status & Tracking,Tracking Information Requests,0.9,5167,748,32
+168,90919f8872aabb41b2eb24159fbcd42f926cb3a652bb58fec475e3b5778b0261,ERROR,ERROR,ERROR,0.0,0,0,0
+169,8a58d003177fea04f91246982923755b05d1086c212c89b3a239c09e5cc1e9d4,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5420,649,32
+170,0175f083a1fe5a9c786a3a1df07113f9c26453a2cd059eef73ec42788e38061f,ERROR,ERROR,ERROR,0.0,0,0,0
+171,854365e3d1682d1a2f9f7b299929e07ab1f5da0b61f917276126e70c62dc3498,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4383,746,33
+172,83457c8b4037948847f33d31a402a826790b8ab28b14760cbda27eb75cb0ae7a,Product Issues,Wrong Items Received,Size/Model Mismatches,0.0,4684,580,33
+173,795a22efcb3b42482e74922e2043a6e4c516813980e2195dcbdd1bfd4bc289fa,ERROR,ERROR,ERROR,0.0,0,0,0
+174,ea9f0fe32ce489b83a90950b1e5a8b7b07b1928c4b9a795c63ca2fa3c1944ee8,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,5190,759,32
+175,7be5bde2359268a41b83761fb07c457f230bd894d337a2be06f8dc368cafdabb,ERROR,ERROR,ERROR,0.0,0,0,0
+176,b8ee2dae2f62222afbde70a916717e5b1e95f116f01af3eafbf58d3b188f2dc0,Product Issues,Wrong Items Received,Incorrect Product Shipped,0.95,5268,730,34
+177,d4d3f777277881e93ad2ab039cb8627841af08744e42140209cc8a64b2c51cac,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5331,832,32
+178,060a869ee6db469076123f60274ffdf86db614904664cc8d4c54d2a99c6996b8,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,4753,692,33
+179,b30ef2aaf3fe65bd39f8f984b73e9a5d9f5af21190624b468f46490eac06d0ce,ERROR,ERROR,ERROR,0.0,0,0,0
+180,30cf1d7597527ae2a102e0f06eb1b8e140fb21ab4f331660647f4460ddaaee25,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4989,546,32
+181,6c3621e2ede1b66efcf545f9b91f6ed15778cbf2071da4866af50343c5819611,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4966,486,32
+182,02dbdd872820460482e5c8cdd9a99f14cbd27ae3ee9e5d2a92da7247d6c14ad2,Product Issues,Defective Products,Damaged Upon Arrival,0.8,5409,585,39
+183,f29a75945fe4cd18090758cfc8ceef71d77700b8b7545355e9cd7ba00fba0977,Product Issues,Defective Products,Not Working Properly,0.8,4894,760,32
+184,d6273f8f70e9fafe7a7a8f8958b863abeae7d9b44f7e35fb798023ad1190a340,ERROR,ERROR,ERROR,0.0,0,0,0
+185,ca78f6447addde9ba49d349878f5d60d225ee2751cd9fa8cca472332fffd12a6,Order Management,Order Status & Tracking,Order Confirmation Checks,1.0,5232,446,31
+186,4b60cbe639d92cc202e167536f078e7e8922163b8049ed497622074284694278,ERROR,ERROR,ERROR,0.0,0,0,0
+187,43d8f0148a33fe195d4db50ae24fa21abf5ed6eb3470ec077548ee97f1efbfc7,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,5117,456,31
+188,625776745e541e9f1d69f30b50f1f02cc0d8ec8571454ec58c10f594b7c5efac,Returns & Exchanges,Return Processes,Return Eligibility,1.0,4905,545,31
+189,4595ae98f696f3b9543da69e834d756d6e55fd6661f1f2d49d297d7f3b6ad766,Billing & Payment,Refunds,Refund Processing Times,0.0,4601,568,32
+190,afb24ade38e0c643337c33d4cd27029a42934ea70c26c9db3e1a53557ea4a6a5,ERROR,ERROR,ERROR,0.0,0,0,0
+191,e51f381ff76cd6ba061a55e56d7be44d7cfba13c8cd8e2388db9679675d77405,Order Management,Order Status & Tracking,Order Confirmation Checks,0.8,4807,788,34
+192,3b72655121fe9b32a067ed8d8392e4f6564a5dd9fa4b2da8d836058719b15935,Account Management,Login Issues,Password Reset Requests,0.9,5284,702,32
+193,8a68b6e5fb119046ffd6b3abf32b751d9420641de3901fd45af769a4e336a0b2,ERROR,ERROR,ERROR,0.0,0,0,0
+194,e46007fcb8a00035097258298bc2b8a917e468f26aca3b502ab4088c82f67cda,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.8,4947,862,35
+195,bbab0c345284b414a34105e6ff6dafc5f371f55b4d5ac9bfd3b02e3ef75da8e7,Order Management,Order Modifications,Cancellation Requests,1.0,5596,471,33
+196,7a7f50f59d3a1cb64202737f3c75ad00bd66d9db62908385983f52759472fba9,Product Issues,Defective Products,Not Working Properly,0.9,5005,783,33
+197,bb2aacebb9fe9ce863a4aae771721c1f77e6c0d6dfe61ca81a16196dce9262e8,Order Management,Order Status & Tracking,Order Confirmation Checks,0.8,5733,178,32
+198,d9f2730ba1501354f88e9ce0b8708f13f61c191df3946b8ab2473b07c039d48a,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4978,671,31
+199,f0d263081c3991bbfd4e8bafe42d5b8771500d43df98cf41c0e9bbf493bf0b37,ERROR,ERROR,ERROR,0.0,0,0,0
+200,25dc3b0c3119c76a0de675f1aaceacd6b42a4fb526571b19af69b3fe68c22eaa,ERROR,ERROR,ERROR,0.0,0,0,0
+201,5eb46e511e16fd76510c4dcf79fc2d8e884580fc1ed4ac1fbb2ff6a52e3ea132,Order Management,Order Modifications,Cancellation Requests,0.9,4802,584,34
+202,58c7150e46e95bda379465e1313bfc88d9de9bc507e1463e691f5ffadac3dbba,ERROR,ERROR,ERROR,0.0,0,0,0
+203,e94731229ce7ad4a335da354c0dcb07713506e00613b9ed2cd8daac6fd1fb16c,Product Issues,Defective Products,Not Working Properly,0.9,5539,624,34
+204,d87ea254b12109cf784c77d509e210a69ac3a5df718d40001e48d938d07a42d5,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.95,5547,1197,33
+205,ad97e2acd7439659054cb3feb58721f4497fecaee4c4841f6e6dafb4ea712a86,ERROR,ERROR,ERROR,0.0,0,0,0
+206,672704bdfd412a59fa91d69e1aa9f5d533cee67624d23851edd32cd3b9dcc9b8,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,4694,513,33
+207,eb985c60b89754fbd167ec8de12c071587f9762ec61ea26590e1a9c1c87dc641,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,5361,551,33
+208,d69d0049957d7c22f0ff7ca57d7358857fde2cb78cc103ab3b38648c29ada47d,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,4893,642,33
+209,2e9e274041c8a5115ca04d89d2f6e23fd0cc336eb8fe508792fb7a648c3ff507,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5492,624,33
+210,21f72dbb309aeef4437c77bf9e700a5ceff779e2b233aea50e27024eecf79dd1,Product Issues,Wrong Items Received,Size/Model Mismatches,0.8,5259,903,35
+211,92e940190606d9fa6b3b39b6569d8020130939d63da6b38d6ee15e9d342e43d5,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,8443,629,32
+212,3d2430d70aa6f5ea3b5903df7e8257f0644aff97ad2a4feb2d3a6c05a89d7ea0,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,5359,832,33
+213,a677161f695d9d1389efe4e9f83846ddc1781c3233d1aae4450bcb0f6bc615fa,Product Issues,Defective Products,Not Working Properly,0.0,5326,644,32
+214,16fb46a255a3e447ad023c4346ee18a28613151171aac95738d017bcab1103db,Product Issues,Wrong Items Received,Size/Model Mismatches,0.95,5629,735,32
+215,b2113050378defab1a6503abf8a43961e2c35da9564d4bd7b584cd1e58cf916e,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.95,4958,706,32
+216,8bdb0a621aa41d5bc76b29e85e30f9b6a1faf728b3d27b1ab0338e5d100155f6,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.8,5195,602,32
+217,3f0f9e0c805bc4f8f26ec76b33f8a6be3d0f038a6220a3b5cd6e0c29dfcf65aa,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.8,5334,533,34
+218,917542071fe41e3a32c7eb0a316eac4fc14b23e0430aa7118b182845544241f8,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,6208,632,34
+219,7a1d0d1982850bcd7ac4bcd38081bca34aa876b0c04f8881fd0b265bb587da3d,Account Management,Account Information Updates,Email Address Changes,1.0,5168,532,32
+220,7e94404d7a78608cc3b8d94bcd47e5a891e90e104f98fd59ee7c5202042f0fac,Product Issues,Wrong Items Received,Size/Model Mismatches,1.0,5547,532,32
+221,caeb9f98b1d2ead96734868a395665bc6bddbb69ac6511e65da73bccae01b9ec,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,4869,538,33
+222,d8d3975285278765042c5c34ee0aebe31f24cc2a88f23d31b33e51c78bdfaff6,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5908,613,31
+223,7f7bc5bc3158f7d1f4a3d1035827ea39eeb5e6638f34579444c7ef380f0d7251,ERROR,ERROR,ERROR,0.0,0,0,0
+224,ce20319d0069f0d6927d6059141e09da5ad3e3e2a9465ab4462dfb3d81b9f3e1,ERROR,ERROR,ERROR,0.0,0,0,0
+225,e87305a0fd6286c9750aff6d8ba2a2fb408083d8296c4a448624eb87752d98f2,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5721,880,32
+226,095728c2730ca2ffffd1c79b3d7ba9f66e00bfad0acf2ca1b6362b94516ef588,ERROR,ERROR,ERROR,0.0,0,0,0
+227,0c3414fff7bea51b10f6330f5b27960b6cb98703ac6f870c22cfa4b92b61c15e,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5488,552,38
+228,15141104665d442b2b1488a6f39f4308fce29831524c376c775e6694c2550282,ERROR,ERROR,ERROR,0.0,0,0,0
+229,fbfb263e1ed6232594fffff968186c6119a427ce5556e5fb63a46f89601118b3,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5420,947,32
+230,47c8b13c8a7af3e754280c28cc25360a6c04cf1dd29cdaba4659ade9db33b75a,Account Management,Login Issues,Password Reset Requests,0.9,4909,448,32
+231,8f7f4d5c02b76c03041502da5820d28320eb9217ba72013165b0f97f397825ff,Returns & Exchanges,Return Processes,Return Eligibility,0.9,6235,558,32
+232,03dfa6a0857577c2bd50f81a46faf0a2a8df3eb04bc7b8468feb382a08203574,Product Issues,Defective Products,Not Working Properly,0.9,9236,604,34
+233,1b8a22086026af9cbd92273e88d27479151107a9829798c7b5191141c007d727,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,4791,684,32
+234,5b06e069e0e862a30d4205b5144a974eee6b637d49d3135911904f03b190d017,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5295,722,32
+235,fedafdf94ab5c2cf154474e533b180a1cccc8254ccb0de8c607561ea7807ff2b,Delivery & Shipping,Shipping Options,Shipping Availability by Location,0.0,4601,735,30
+236,1dedec4fe9f84cc33d7129357e72adb6ca4044692e40e8cc8cb8e7f65a3d4fe7,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,4875,680,32
+237,9dfa7393e5c330352e1ad967a2c80f7d44c6217671a60edc7b7737360741c5dc,Order Management,Order Status & Tracking,Order Confirmation Checks,1.0,4776,621,32
+238,8f79bd76dc9d5859fad1a64fde2190d86d79d5c6b8baf430e494fb60473705fe,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5285,728,35
+239,1b588a370169e73ef3978a1c9e35bd37591d779155e17c98fa61abad3a342ab0,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4740,757,31
+240,60f8c11110892d85d87dbb9edd6f55421e1504156e7d209f1a63f6dbd67f29bc,ERROR,ERROR,ERROR,0.0,0,0,0
+241,3e9d904ee45422a1a4d9ff3c2c537249a176634246f128d738e1312684b2fc25,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4834,750,32
+242,2fb11d5112dc097d6c8f40a1ef72ce2a5fb7843d8759916ffb4c65503fe99aab,ERROR,ERROR,ERROR,0.0,0,0,0
+243,e3ecfbc9527c1699d705fafb818b330148f3719bc7d7dedfc2c8c145e4cf7cec,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,4523,420,32
+244,cb278237b011cd2d77badd487a3bd05c4ef205d69adf68d8953cf49508247c05,Returns & Exchanges,Return Processes,Return Eligibility,0.95,4922,544,33
+245,55c833cdf02dedb36525160bf20857fe84ec311e53faf9a222969de21261771e,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4600,596,32
+246,aad3fea0dfdb47c5274fa5c8490ec71e9547f829850507826be933cacec2f98e,Returns & Exchanges,Return Processes,Return Fees and Policies,0.95,5430,734,32
+247,b6a86bafcddca42d0d65da31b7c9b0ad7bea02ac02d9197bc8cbb1db7e3dffb5,Order Management,Order Modifications,Cancellation Requests,0.9,5143,513,33
+248,55c7010d5e2432265276f519b50564acd3979baafb1d82712d4294da7469fdf6,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,4881,668,32
+249,e77b6840808e5e6cdc8e05352c90105649c11f5524eb223704c60e061a43ca4d,Warranty & Support,Warranty Information,Warranty Start Dates,0.0,4851,689,33
+250,6cd6809caf6822419419c4b05409c06044152b316c3a80be9287358b2c313af3,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4768,912,33
+251,7004cd3204b7795d803c84b058459b8a34fda930ecc11ab0baa40b5394492a1f,Product Issues,Defective Products,Not Working Properly,0.8,5607,673,39
+252,26c62ecdfc2a673fdfe579d49ae1afa90264e00d6a028677cb70f6401d1126f9,ERROR,ERROR,ERROR,0.0,0,0,0
+253,9d54c4870285db7b1d72758b8dcece436dadc1793c3b51b2d0cee04e666c59a8,Billing & Payment,Refunds,Refund Status Checks,0.9,4706,550,31
+254,7b81ff18201f539124fe7f97e77e26c35c48e0cc91f04f7807d21231818b27b7,Billing & Payment,Refunds,Refund Status Checks,0.0,4658,677,32
+255,b8c5aecdc2b0d74a7200f2c5117295f4b9cfd739b2c8a4e3b6650c62deaa28bc,Product Issues,Defective Products,Not Working Properly,0.95,5158,642,33
+256,2df707b2b0fe99dc5ed3a42e5e2f033895715263bb5b905ad7f21cac5a119fcd,Account Management,Account Information Updates,Email Address Changes,0.9,5300,635,33
+257,339170693c4bdd503eb9d3ffdba23b49ce976291ff54769cd55ad76c82ac7d53,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5214,572,31
+258,b1b2e5001cafb79a413e6925bcb70c1209d16926a13abc926568fa97f2579a5e,ERROR,ERROR,ERROR,0.0,0,0,0
+259,625ff89210f904f9906776c73fab6d0378c7f0861061550b7ff52faf1bee7d62,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.9,8446,1051,32
+260,f342c7fa12e2a1e2f2400ef734770942d2dc7d0f06f45470e7031626c0298a70,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5383,643,32
+261,ef9888702412ee6d15dad18a90d747dabac65ae19a29f4435c9e1701dbfdde5c,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5114,676,32
+262,949533514612c62845b0b580c9651d83295e00e160e48456eacc8362c9295ca5,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.9,10663,807,32
+263,41cd43d70b35b243639c280b9fdf4eea465649c1ffccc31cb178fafc941df043,Product Issues,Defective Products,Not Working Properly,0.9,8194,570,33
+264,d32c65bbe63c34ed4cc479339a394982028974326f83d672adceeb4ec3c39fb8,Product Issues,Defective Products,Damaged Upon Arrival,0.95,5997,659,33
+265,9103e19d358486ddebc4a279e2f41a9dd35e5ebce7b9b8eebbb06fcba44c0484,Product Issues,Defective Products,Not Working Properly,0.0,5599,637,32
+266,cd64c1022bee4e983fe036b10b652f2a48be10da922cd9f1bcfd3a0ca73d5ca0,ERROR,ERROR,ERROR,0.0,0,0,0
+267,15f9620bbabf3a7fe8050a4f97cdb6777e28dde104287371191f0a04b0b5fcfc,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5646,611,32
+268,4947756be94081cdbee93b351e15e924a27517f90a4c7c75e2c9c9b9808848aa,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,5239,614,32
+269,5f997d1b613880aa0c49d211dbd581242a0607d710143f76bda8e90384e58044,Order Management,Order Status & Tracking,Delivery Status Inquiries,1.0,4737,487,32
+270,9f002552d8ce0fcc51392176a4e07a5d7934ba1ba13b4a352407e06d7145b216,ERROR,ERROR,ERROR,0.0,0,0,0
+271,c510bdf7e7893b5b164d9d18435568271037081267e2cb5138059ec99727b77e,Account Management,Login Issues,Mobile/Email Verification Problems,0.0,5509,633,32
+272,e1432fc291b366d8affc311081155d7719f07de9db4d3c142610f94ec0a3a81f,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5284,488,32
+273,6b985b4fd6c43f187faf1250787aae853fc72c494a9752ebab42c5a8bdeec790,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,6233,826,33
+274,167c11d0ebd45b07864de09e022e778835f4c770c353dae90931692156ebf1f1,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,8355,827,33
+275,111f4a44a686283d876a28d971af00426561e79513dc86b8c6f4bc3936288c44,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5704,575,32
+276,706c3d8818fcbdaff1fb0c18d2961448050ef23207bcefa7d304e9bf3a82d39c,ERROR,ERROR,ERROR,0.0,0,0,0
+277,e1eb30c6190eb862dbdbca308f038b92ed212139b63963835c4e5a2cfbab1cc0,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5482,590,32
+278,5c17e4eed4970f82d79a9e8b31d3ae2fb907120e8a8c542527bb580a312ee028,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5862,576,30
+279,be2dba75bc8d75a948d4bd050478659074355bb960e6198db1455747f711009a,Returns & Exchanges,Return Processes,Return Eligibility,0.95,4955,748,34
+280,42c4d8e886de1180b338ffbbb0c57d7a6430369063368446bc38e687bbddf32b,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,4741,527,33
+281,d6203e28e89138890d70edc4534bb90e48a512741cae7250b85b0df6e06359b7,Account Management,Login Issues,Password Reset Requests,0.9,5943,598,32
+282,56cb5081eabba44e1ec5927078985691d61b255717f1e62c8b7a31a87b5af0c8,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5469,639,32
+283,0222dc826bc54038a21af19b656b407f9bb382cfabbd18cdc76dce3577bb5c85,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,7121,618,30
+284,5c86b4701d876bf8a510640a0f0bcad192a8b786675c6e69d37fcd59f4eb8f17,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,8773,642,33
+285,3f457382d221eb5695d4499aa2831cb4cb7eb38dd8188b8b390c375490d4ec44,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5832,515,33
+286,73355650932676c1047bc5f02af67b0a51a3b4fae195883026e924cf01c88111,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5014,743,34
+287,136df71e2275f7f6412e05a93daec949194f6d9ef3c8fa4ed1a5e05df97da56b,ERROR,ERROR,ERROR,0.0,0,0,0
+288,43e8a7f8cea806cdb046654dd136dc18a44ba0dce71ba915ae3db0aa0c197c82,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5837,715,31
+289,0383731cd077e41457f1f0dc9d717e8e168453cb83e39868ff585e6b0d9c156e,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,8142,792,34
+290,d4bd65c64c9c2d08b38afa1a0bf8b4ff19f1a93eb838f9e7f13f3162b8505c4d,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4841,610,31
+291,ca28122b29b68fcdd3253c116a541e854db76c846bd0eb6eec421dde0d0cd624,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5394,586,32
+292,3a5360704f3c44b828d66f393452e1e5530598ab96404bbd4cafc9f1ae3e64e7,ERROR,ERROR,ERROR,0.0,0,0,0
+293,893dc22875b229027378db0e874de8fd0bbecd1543ebbe3d6b0191822b0723e7,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,6196,724,34
+294,eba8db93202330d079e6e878faf4903455dea1e174d05a97499ceacdb058df45,ERROR,ERROR,ERROR,0.0,0,0,0
+295,06af4a35b4df9860c52c15999117154054c8471fdeabc7b1460e4356adf5c70d,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,7844,554,33
+296,740a9fb0dae16890cbf6a008bb89583c87eb86d10303d5fe9273c9d5fc2a823f,Account Management,Login Issues,Mobile/Email Verification Problems,0.0,5670,697,32
+197,bb2aacebb9fe9ce863a4aae771721c1f77e6c0d6dfe61ca81a16196dce9262e8,Order Management,Order Status & Tracking,Order Confirmation Checks,0.8,5733,178,32
+298,ca841d6a0fcafac231529eab53d169b2d99678395a0c239c8602a6134b7021c6,Returns & Exchanges,Return Processes,Return Fees and Policies,0.9,5694,641,32
+299,5fbe88bcad0aaebeec1d6d02a8f5da1f590af8227dad988b755e8b3ae0c91013,Billing & Payment,Refunds,Refund Status Checks,0.0,5062,614,33
+300,ce3029355335106567cad85017f2da0846bab79ca68af6ec89e77803bb1e921a,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,7988,710,32
+301,55ff98d63e33c05186ce1121b334f9c3eeef72fbe25935aefc91c806aabf7096,Order Management,Order Modifications,Cancellation Requests,0.9,7114,901,32
+302,01b2ceec84ef2ec14c9daf60cb5447cb5c7151d0dc6bd2db364721a8ada0628b,ERROR,ERROR,ERROR,0.0,0,0,0
+303,13aa1d19a5b903171a0e59f0ca680b7b806003c51ad65e27ea41e22f9bcfe17c,Order Management,Order Status & Tracking,Order Confirmation Checks,1.0,4744,443,32
+304,9118f09d7bdf70d210513fd6e0cc95188c19938eeb070c7b4c07db50497656aa,Returns & Exchanges,Exchange Requests,Product Replacements,0.9,5051,643,33
+305,43f3fd3bead9306e2f35ac55cbf89e3c0fdb0af2820b3e92f580f204fe4de40b,ERROR,ERROR,ERROR,0.0,0,0,0
+306,bf625c64cd3efd4b778b27788fda796bbac428707dcfb0e67c0d8a619a69f774,Documentation,Invoice Issues,Missing Invoices,0.9,4494,578,30
+307,4a27db0e85ae25c382881d7ee3846712e7f73186b02632c687a2e1e3e9b09403,ERROR,ERROR,ERROR,0.0,0,0,0
+308,eda345f9a039191ef694d1c7a835e613c53ede171ace2e32dd6eaaf30411ba04,Order Management,Order Modifications,Cancellation Requests,0.8,4897,528,33
+309,475104c91d364d7b6b91e4e4174c638e6c82efe36f367b89bb8e801ed0ca8abf,Account Management,Login Issues,Password Reset Requests,0.9,5596,549,32
+310,0d4751a7026a6bb4ef51eae820f6fb5b4a33c94395e2251698f2765b4515bc15,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5100,819,32
+311,c6c641be9eaab1843c058586ddf294f2593b22e0dac9dc0af58583197a2d306e,ERROR,ERROR,ERROR,0.0,0,0,0
+312,ea6c43e1b17eeb611f17c47bc2856a7b49e4141de862c2c7d64f0094730fea4e,Returns & Exchanges,Return Processes,Return Eligibility,0.8,9775,636,38
+313,e58990a08623b18a5735db8b6a633b710e8b6d8066bf5d3f007d9331d57ef317,ERROR,ERROR,ERROR,0.0,0,0,0
+314,0bde7745fd500da96bc282ac71d44c3a2ffe8ab783a3b3b6f858ee1206346a94,Returns & Exchanges,Return Processes,Return Eligibility,1.0,5395,568,32
+315,3c8510efafaded571f0b3a11a6b85e01708aba4f66c4700240d958176aa5817c,Delivery & Shipping,Shipping Options,Faster Delivery Requests,1.0,5171,605,33
+316,a27235068f1940951cb408dd55305bf196efcf8cfe38796c72a19540e258c7c7,ERROR,ERROR,ERROR,0.0,0,0,0
+317,24b25a23e9a25d09065239603f3bd2ca0c5e3e25b34b7f940ef90681a4831ac6,ERROR,ERROR,ERROR,0.0,0,0,0
+318,11de114493e711f18922caa7dddd130f45655fea6b4fdeda6d66706d891177fc,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,9353,515,33
+319,ece053ecb3e3611fa3887b1b2f157392b759b3f6e5671bc7fa25b9300962aa97,Billing & Payment,Payment Issues,Credit Card Payment Failures,0.0,7026,581,32
+320,846f101dfd7f2e010a63d128f3eceebf512a8246f4ffe44f3ab654f57f7299c3,Product Issues,Defective Products,Not Working Properly,1.0,5720,518,33
+321,232419d1d81296523df7068ebfdb862842ff383fc2ffcb4d2d0c9451cf8e5418,Returns & Exchanges,Wrong Items Received,Size/Model Mismatches,0.9,4920,664,35
+322,a1aaf411399c8bd5a18fefb9bf6f1258771a9f25b18e4e36734ae01d0f404f5e,ERROR,ERROR,ERROR,0.0,0,0,0
+323,c166fe3818f2f8105cdc9487c42df9fa24e4118599b453d466ca3c9374eabc0e,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,4970,637,33
+324,7eeee738743e74a57827cceb2cee3d3fe550e2482982bf94250fa2eb9bcd01d7,Delivery & Shipping,Shipping Options,Shipping Availability by Location,0.8,4815,771,30
+325,4453ccf4ef9ac3dcfdbd300514b341877080bfc8771b077008be5f3d0094d55d,Product Issues,Defective Products,Not Working Properly,0.0,5451,523,32
+326,2b5c65374e623374a724dcb35c094392f716956502dc2fcad595ae159474589a,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5436,580,30
+327,a85b85ddaf9b7a579e3b15e4c61af9f04aebd4e85e359d815fc87c16ce099183,ERROR,ERROR,ERROR,0.0,0,0,0
+328,95397c680acdaf2d603d5b28f57288fee202792b2f460346457fa44edbc26fa2,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,4917,545,34
+329,c8faaeedd5c22233cc79d312f5f5ed474a9e9bf9878dea46e0c62d962612d5be,Billing & Payment,Refunds,Refund Status Checks,0.0,4970,592,31
+330,49f2d240ceac09aac875408dcb93c0cccdfd1f782c6fa8994c5bdb0a98239ddf,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.8,5393,691,33
+331,50e770d50180053d881bcc1c3919926be7b781c2460079dc6cac45d11dd97ba5,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5226,570,31
+332,b898a72ee6d174131940ff51c063093e8b5f309a21ec927123c5b66b00368adb,ERROR,ERROR,ERROR,0.0,0,0,0
+333,88ddcac0c984b84cfccd45c6338ad03475cb8adead1f5153627cfc15220693eb,Account Management,Login Issues,Password Reset Requests,0.9,14759,656,32
+334,2ece712112ffad13e0eb31072a6c7b9b0f0a08f4ed476aa1aa73c3cb31b3d1d8,ERROR,ERROR,ERROR,0.0,0,0,0
+335,3b22965a707522a4cb0d179a4abd2fd788d5a6915a11b597689ae0a2aa67b098,ERROR,ERROR,ERROR,0.0,0,0,0
+336,71568705f32cbd9313b4c976f5ee607223aa5c2f66748387eaf04a107967463a,Product Issues,Defective Products,Not Working Properly,0.9,5811,727,33
+337,373abaf4967ead1a91554419b9c227b98001dd06c6d37ecd6e5c116676a441b3,Returns & Exchanges,Return Processes,Return Eligibility,0.9,9382,645,31
+338,02dff0415e0cbc1ecef79c961871d07fc856e1ad8b7594d3e7ed5696f3f570de,Billing & Payment,Refunds,Refund Status Checks,0.0,8359,658,33
+339,500f0f9785cec4e87f5a7ecb45b25c210e57a36ff97c6b75d372319ec1604ad1,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,8698,740,33
+340,69d0bdfe69de747ff48525d369f6f0ed794418425460094b2fc7dca731f1d45f,Account Management,Login Issues,Password Reset Requests,0.8,12040,628,32
+341,a488718b5abac11521057c0d83ec55803e055834390db9e76c3d6bce65cb058e,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,8783,702,33
+342,3639a6059d81a1342dffaaef01792b1b72a3c73862c0b9e4b19534884afb0f3c,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,8938,737,32
+343,9b29d219694c71ed9a8a672c91590e9cc60cecfb9f58140c61e9a095ba0a81ff,Warranty & Support,Technical Support,Product Troubleshooting,0.9,11259,506,32
+344,4c7b7f02f89ea087634daeed5aaa37b4be6da96064acca77a1c8bde4ec0afa5d,Returns & Exchanges,Return Processes,Return Eligibility,0.95,5391,727,31
+345,07fbaa316ed9b9e25f5e6af23ee449a52d76ee8da8cce6b979e08b18ebd5982f,ERROR,ERROR,ERROR,0.0,0,0,0
+346,f265e9dcc1551a5ce621ec8683af2ef07a21bcb042212bd40dba73cb6ba387e5,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5035,759,37
+347,c06d0c50b634a6f2d9e16f087f0fd42f71b4979b4d80fcd99141264b1d602729,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5136,767,32
+348,2c3bf07a21b1d258188765fea9f7f496ef089734ac604803d4ba7b121aac4158,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5095,656,32
+349,363dfbaef0e55bd7a5ee187dc1a699a0cdc861a22aecfae8935e8b2d03b275ae,ERROR,ERROR,ERROR,0.0,0,0,0
+350,c943aa39fe1fde7acaaa663a0cb165ff42230a6a35e007ead8d6b56217e9913e,Warranty & Support,Technical Support,Product Troubleshooting,0.8,5226,867,32
+351,246c8789e6e2bd09dbd95b7ef478ca203712376f1d5f89749dd67da6b06ac007,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4948,906,33
+352,7c0a250d3cfdc61b489e20991b888b7688f49a675206d4046f747879d21faade,ERROR,ERROR,ERROR,0.0,0,0,0
+353,5aaf75a238cd1bc9753eb7d272baba2bb77f3e61dfafb87a3367a60780df07c1,Returns & Exchanges,Return Processes,Return Eligibility,0.9,6114,620,38
+354,bf8f6f579afe4bd0000bd747401f0dc25e8323d277df191f001c43699a109be9,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,10656,657,33
+355,af2199615acb5d4402473621223576fd688cb818d5f1b201d179e764eb64118b,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,7736,922,32
+356,53c2cc06aceb6e53f749aa20f638cb616ee76af42ad64ef1d2b5ef8adeb88da3,Returns & Exchanges,Return Processes,Return Fees and Policies,0.8,12871,605,34
+357,0ac4158313c2fcf7e7be4267b344b56c6396e248879b848a50a629f6972d248d,Account Management,Login Issues,Password Reset Requests,0.95,4941,623,32
+358,115cc6dd06d669fb6a8392fc88407ba49b4995ff9cd5d6f46bf50888e40bbfce,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.95,4725,876,33
+359,3909f0a6ecc8680aaa831f3f88de5033ab1de73e84b321162f4df356c50e114d,Account Management,Account Information Updates,Corporate Email Signup Issues,0.8,5676,779,34
+360,8051abf3d10c8458fc9c5d357da3fcd3adcc90ccd2b29c91cd3eb96dcb4d48e9,Account Management,Login Issues,Password Reset Requests,0.9,5507,621,32
+361,7028fee4436b21278ce7c0b16fda44b92d8d6ac233571f2d119b68ef7cba418f,ERROR,ERROR,ERROR,0.0,0,0,0
+362,b81d426256f64c4c6b6f18f3e17c8cb42bb22bfacc653788b1d18e5b10969a67,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.8,5345,1110,33
+363,ecca6d9de3980d67690d60e04b9e4b86d2a2bc89333dcb18b043c0a6517d6451,ERROR,ERROR,ERROR,0.0,0,0,0
+364,02fdfdb34dbdc9a4f8f5b2d50cbe1ea934f944a96bd48b876645f7a9b1f91279,ERROR,ERROR,ERROR,0.0,0,0,0
+365,b4246de1f065533b0dd7b94607b2fca028f98ea51bf6b0e65014567a2f4a04a9,ERROR,ERROR,ERROR,0.0,0,0,0
+366,00ba7cd456f08f6050f90703ec1c0d9f78d2fd2213f851ca8f7d71d3f705116e,Returns & Exchanges,Exchange Requests,Product Replacements,1.0,4761,670,31
+367,63c05b012e638b48222763d7db9de131a22feb831833726afa4e8db92c21a4f8,ERROR,ERROR,ERROR,0.0,0,0,0
+368,ec8ac3a4e39e85571979477424f956924086d142f82e95df6b4eb5323decad5f,Order Management,Order Status & Tracking,Tracking Information Requests,0.8,5418,616,32
+369,583b2207b84acd86d228e2bb2ffc098a108fac7948f08b99ac2c9be22b35dcf8,ERROR,ERROR,ERROR,0.0,0,0,0
+370,c797db6b28c02098f720cc6c926acd88bc52bdfc62a204beebe5448197697675,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5430,583,32
+371,b77ec2bb4f8167a8281cbd9baecfee43e5e0224724d920bf22c09eb0d7aa93e6,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5288,521,30
+372,19e51a9a6ac2e2e680c31fae5b34e612b3796f3342c02872ee6c48a231e45743,Product Issues,Defective Products,Not Working Properly,0.9,6411,693,33
+373,f716372b84d129335326ce480efe6dd7877c1585c289a3c49830752f611b7fc4,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,5966,548,33
+374,76579b80496ff154db36e4d837db878b2b397a082f2d77db0869703458f3b6be,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5000,768,32
+375,c4f70dde227ad6cc73fcb8db3a4f4f5fc883f7452a1dd6e65c83ce1975407f02,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4780,690,32
+376,f4d6c1c2e5f1962cc9a576766a5f1327da56946833b446022388d6d9c9052ca2,Order Management,Order Modifications,Cancellation Requests,0.9,4857,515,33
+377,df5ec73b59a5dc8a73470eb5fc63bd027eb942ff019dfa4f5856ff901255baf2,Warranty & Support,Warranty Information,Warranty Claim Processes,0.8,12427,689,37
+378,96e08d0d45ab52ab4a0a2a6401a811a4349cd489fe054dbd27e320aafc414b09,Account Management,Account Information Updates,Email Address Changes,0.95,7468,559,33
+379,91fc9faa69408362a48792373d28542c5e17e6367206ee84cd37d009b5715864,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5006,652,31
+380,86d768488b00cfaaf94351a7790ce62693ecd00074d5ec47e52b37852b8650a3,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.8,10533,648,33
+381,6ca11a0098ed5fd0f204fe3b357b9c6924f1215a0371f2676949cff415408563,ERROR,ERROR,ERROR,0.0,0,0,0
+382,b2cb2a156447076c252fe122b6c559d8cfeb98adc769307be4dcc986269e12b2,ERROR,ERROR,ERROR,0.0,0,0,0
+383,c0e942e127e34ddfbe77bfdebcf8e20122e34bd1992a42bbd09dabe94cc72703,ERROR,ERROR,ERROR,0.0,0,0,0
+384,664a9c063dd7f901a4083fe64673739cdcc7298783ca1c99421895362d1690da,ERROR,ERROR,ERROR,0.0,0,0,0
+385,7f8e372074e023e2c5d963c0e8d3db67211348b71dd052b493a5e2e5fd2ba5cf,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4650,575,32
+386,01faf54e7af9af27ae680a26b7186cd172cbf605febe5bd8c6d31447c97bf333,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5112,825,32
+387,a96943a5d7308af0219da0d0b2fc535bb7be1f406a34fff439ce58164a96caee,Returns & Exchanges,Return Processes,Return Eligibility,0.95,5016,585,31
+388,646133857d2b36dfb62e4a8ad6665372bf19a99383a398b4d7bcb5c39c0456d7,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4790,671,39
+389,194910f59e60a47cc6279b9c1b05eff302e10efbc4a494ad9082e58a8f4c66d2,ERROR,ERROR,ERROR,0.0,0,0,0
+390,9f976f1b799b90f1423f206771b23c73ec90ebdeca651891939f47daa79c4898,ERROR,ERROR,ERROR,0.0,0,0,0
+391,73cead43d178ae060b00fd5c18bc4aaf2584ad59f03c8e670b5c72f97f2ad002,Order Management,Order Modifications,Cancellation Requests,1.0,5216,431,33
+392,71014bff358d396c43ea632eb949cb1c33c30fe2ba5f44cc1a9e1b293f2c800b,ERROR,ERROR,ERROR,0.0,0,0,0
+393,aee91d9d866f5557fa3e1106935b9731add6033ef70727d7b18e87cfdc2fe932,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5089,645,31
+394,cd26fdf54f6311d86c2c7e6753236e8cc1877858e5e3e75b77734a116a628dcb,ERROR,ERROR,ERROR,0.0,0,0,0
+395,cd7ae930bc7fc369bec96aae0cf2d86653d4c26495c27972778774bfbe091fff,Order Management,Delivery Problems,Missing Packages,0.9,30057,694,37
+396,febc41a91ca7702463e6fa90a1f8e33220cc9c94452a35675ba2d1747788695d,ERROR,ERROR,ERROR,0.0,0,0,0
+397,4c8f13c7f8cb7edafbd843a8261e3c8600ec2b106d0139fb250f67aa0d9e134b,Account Management,Login Issues,Password Reset Requests,0.9,6358,583,32
+398,dd320c5b57f24b77b94297c4f2c9878c605ece82b3f19e989682d92226e26e78,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5624,577,32
+399,7fbfaa9d454b8c8a7db586656ac3996998b0873b1ffb7e009555c887d54b025d,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,6020,577,33
+400,479ee9da02ac916ea15ecec5c9c71f090af8c3f18152aeb0e3837f2162e3850a,Account Management,Login Issues,Password Reset Requests,0.9,5570,672,32
+401,47980c6a999431131c0e75fed7f5b2606f7819846ae3459abfaa143107d8ab20,Billing & Payment,Refunds,Refund Status Checks,1.0,5789,534,31
+402,9463ea9b6b118d6e656c9cb0e453770cf97e49b74deba5ef97d0836ad73d0966,Billing & Payment,Refunds,Refund Processing Times,0.9,6552,642,32
+403,a3dd02f7f8b5885592e47f2a2bc76fa6ba9de502e1f9c1186a4ff27f72f5a999,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,9347,669,32
+404,95e987dbb23d2b2e1001dfdbc36c804bc6d866ab0d1ef5866abbcd95b9894b27,Product Issues,Defective Products,Not Working Properly,0.9,6157,711,33
+405,73462e8c4ef36b0c84beac77593c1428c75cd55950122b280769dd8c1079c11b,ERROR,ERROR,ERROR,0.0,0,0,0
+406,b73315eb9ae857c2da7c95ea49a376dc5889e2319a7e5cb00dd179bbb08b5834,ERROR,ERROR,ERROR,0.0,0,0,0
+407,fc83dd33fa2a3c424c1eaeaea1f5aadeacf843a6f880a2c349cc4eca6024466b,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,8225,552,33
+408,3077d770bfd39b15fc1c4991df403b8e0aafc4b38415611ac816eee8f9f3baa9,ERROR,ERROR,ERROR,0.0,0,0,0
+409,1f11aceb0cddab6b6c39a2a7bb2c36ab6402c36f61016ffa6415746c3a6ab544,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,8198,536,32
+410,eab2ec46aa8569ca142c677ae496bd3af91f94d0f662bfb27f2f68d262d06f88,Delivery & Shipping,Shipping Options,Shipping Availability by Location,0.0,5163,480,30
+411,e154138ce20a63ab3ebd73539c9f3a94b7a45d01a4198cd974b78bc8e18b93fe,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.9,4857,680,34
+412,db38ac4472f0e198015f0b16914a8ed119b3b6351ec5f9b7f8beabf47b45a954,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,8923,676,32
+413,8e91119493aa3f90009c7197869536cfe683820dac661cbf606a3ad8123c8746,ERROR,ERROR,ERROR,0.0,0,0,0
+414,469dc33a04fa1a81806e3165771a3a079186d0aabefdb123c8ac43038176a4d8,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5165,670,38
+415,00d5e3c05050c11f63d95617311da5028b5e71d89538b7a199211e9a05d21b55,Billing & Payment,Refunds,Refund Status Checks,0.0,5313,805,31
+416,e5e4ab169b083c91497903ced37e3c1df626abdb27ba2c50b357541a5d1555c0,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5670,534,30
+417,c1b79ec6609097484bae4b6f550492107d5f915100eb69e31a7bbc747f6b001f,Product Issues,Defective Products,Damaged Upon Arrival,0.9,4782,536,33
+418,febf28b9d03a31c4a035c8abfeb720ab70dca2a83f577321a74f658165d90670,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5480,642,32
+419,1365964b78d726fd62fc3b6df2a04d3449b108088c5b0d0f73b490a525f2f5ed,ERROR,ERROR,ERROR,0.0,0,0,0
+420,3788180d872470269cccaa35d2bba81d23561219bded60364b4c2854a80a886f,ERROR,ERROR,ERROR,0.0,0,0,0
+421,b36d9dd53202ce551072eda2a754881ee78ad5e590981145e0b1478e45cdcee8,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,6305,664,31
+422,9273368087aee0dc2248f55f68175a7a16ba9982bfd196d00c92dc2b840836dd,ERROR,ERROR,ERROR,0.0,0,0,0
+423,a22616ac0a97d3a5675d44f9b1057b9f3cd53cc0bc682b7d8f477d03c4736203,Product Issues,Defective Products,Not Working Properly,0.9,5726,775,34
+424,bcbdec603f6ba6dc8cfec7c36e4b9ffbf580990c70f79a7ac97280723647d5e4,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4759,665,32
+425,4148f3495d42018b52c55d2b4fce5224cdb0cdee72c13c1c874e4673367909f8,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4934,611,31
+426,b6549cfbef2fd52412c776dcf0c7e86247d93678bf6313d6fabaeb0590b6faab,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,5044,500,31
+427,964300017bc8e6ca2e75fff028c9f6dc30cbb63646d84e4a086b33c9f88745a3,ERROR,ERROR,ERROR,0.0,0,0,0
+428,fb470e7f9f528ec9dbd0f372864f3c41c0903957b12310330af791b3a257dcf6,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4508,334,32
+429,c339e5ea2f0c8705e23edc158a00b1bbf5f52182660673ad50d29dfb2258cd57,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5165,503,30
+430,e354f2d013feeb8a465e0c6c70ae04c94b41875643e084a9b6efe8975d0b42f2,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4767,517,32
+431,86e9213e5ea0a96bfd7ba3e7d3916a7987ee758c91ad2ce0953c38a1492ee201,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,4950,522,35
+432,87697eaada161497cde8ed5900127a461eefbedddd9320495b1d8faed64a258a,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5785,593,32
+433,5f0088bea5cbf4e17dd83a05144f8d67bc4b9ba861f47a8e587d982a128a96a0,ERROR,ERROR,ERROR,0.0,0,0,0
+434,60e71b7d0f8bfb764c1156a4d64fef3c3a09d82674c2ab75d29c23b31d730c50,ERROR,ERROR,ERROR,0.0,0,0,0
+435,4c664aa54c50b234febd6b9e03c624a6a9dba2c34c7ec231a3ac82dc01a4ed9d,ERROR,ERROR,ERROR,0.0,0,0,0
+436,06a994ca0ee3a2509ecc38f9a45ce6cf21c67d1155f5ffada2e57373afc9a9cd,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4488,722,31
+437,1f692d36811c0bac7d058bfabf1a1abf5e103cf6abd0bdd3b05221f62127574f,ERROR,ERROR,ERROR,0.0,0,0,0
+438,9abb740ce0a480b3da0b4a70f34ca667a4245536a1b626da53b531ff44dd55c7,Returns & Exchanges,Return Processes,Return Fees and Policies,0.8,5026,777,32
+439,5ed95a4ca10a2094cdd796aab4a119b2f25a8522b9e28cd65468610f435ce3d6,Account Management,Account Information Updates,Email Address Changes,0.95,5335,561,33
+440,4921abf74c235a50a4b5e1ed9e67726caa71da850ca88a794f7749e46e47961c,Documentation,Invoice Issues,Missing Invoices,0.9,5185,569,30
+441,23ed8aa77a75e135edda7e40e976bb00887751dd4028295600bec0e0802ee827,ERROR,ERROR,ERROR,0.0,0,0,0
+442,c9916544a583a4b4cd0a4b920c63ca8e6c1f69e1e6127f532e5740fca5fc2156,ERROR,ERROR,ERROR,0.0,0,0,0
+443,b64cb3c48d78b717929c3f0f870daa9d93e9c216198260c2093738f0d663ba1f,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5934,603,32
+444,e958d9bf94b5138fd5235144ae51ce6ec98a3150c7c69ef28740ed57f659b11f,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.8,6506,769,32
+445,cdf3f267e2f3d36d2f303c94a0afd866419b98c074aa866c2cc030f120c14da2,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5377,589,33
+446,a5feead128679ae0641fe6a783c4bdb9a7a4b8ebede8a3414f9a7663de3d470f,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5274,557,35
+447,8eeb8ad9f7736678f8a22be38b7c91702392a003e69e2fe17c6a17a84530b361,Product Issues,Defective Products,Not Working Properly,0.0,5769,569,33
+448,63fbef35e228369f4df57520315d034cca3e9811e7af7a8b845c685014473300,Account Management,Login Issues,Password Reset Requests,0.9,4908,525,32
+449,385e6bfaebf315a438a6d8cf14cd89f2faed447036b6fc3fa6f5c698662eed83,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,5728,873,32
+450,50b8a4b45093a91c5b7538a566cfc0aba6b154e8059f552708b7ddf96bf6dcb1,Warranty & Support,Warranty Information,Warranty Claim Processes,0.95,5232,651,41
+451,badb934ee9a8aaf67efd39e2a499c04d262589f584ffa220887fc0a4895ea06d,ERROR,ERROR,ERROR,0.0,0,0,0
+452,267174f3c76b57150a38ffdbfe02d34fff204f2b41f849a35ffd1a12ef7b55bf,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5524,461,31
+453,b085abb0c895666cff696e031782fe3698dc0f34a05667a367ac8582f67a2f46,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,4639,536,31
+454,92aa266cd33e28b75bf4375d3bb94800bf5c429e394eecfefb4f4640402c996d,ERROR,ERROR,ERROR,0.0,0,0,0
+455,e243b043382092ea9435bd7c8bc774dcee5be9524c9d93ad74187c50649039c0,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4976,511,31
+456,6512d84325b3a5865080ea56bcb420f0198cc5bceccdf358aa579835e52cd059,Delivery & Shipping,Delivery Problems,Missing Packages,0.9,4867,941,33
+457,7098c3a039b32d114d9667e37bf0ff271045f6e88005d618a3a540f2d4433f94,Account Management,Login Issues,Password Reset Requests,0.9,5278,793,32
+458,942ff9a5c03c64ce1f58a0a34f716749b2a4467474e6ee124a2f00e87d5c85a6,ERROR,ERROR,ERROR,0.0,0,0,0
+459,ba82c5a0a6a85b82cfe2f6116db0bef8330a0048356467845897d2b9ca1e3783,Billing & Payment,Refunds,Refund Status Checks,0.0,4806,686,31
+460,51a9ccf72f47c2925f27dc16b4a4dd711b2dae3150ac0cc6e7b786266b2860b8,ERROR,ERROR,ERROR,0.0,0,0,0
+461,cf414b3ecaae57d0c508129c5deaab1138a44c330351823afdea2654653038aa,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,4948,711,31
+462,33d6efe7f4c818aadcd7a8829c993a3937ce9e05cb8eaca1041acc3c701aeaec,Returns & Exchanges,Return Processes,Return Eligibility,0.95,4824,586,32
+463,183c416875e68e1462d423f0d520ada5b5b51d0cf313116835480b7b4ca42fc3,Delivery & Shipping,Delivery Problems,Delayed Deliveries,1.0,5192,511,30
+464,eb67b3f217231c9e1959bc3ddbf095e5bdde8ee27376ad37c21024aa453ba5a7,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4682,810,32
+465,5bd30bf59c6575bb0a0a9a25a3ab396364ecb1f0f57d631309b5a169e938c808,Inventory & Availability,Stock Issues,Out of Stock Products,0.8,4674,675,39
+466,6d72938355f222efcd499d91d3dd1ff231ebaf3275b467610b167e8e111c934a,Documentation,Invoice Issues,Missing Invoices,0.9,4836,603,32
+467,bf25fa6baa41abbba4ab0d9cdb20d15b4e709461bac9e7df3198ee392cbb26b5,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5203,862,32
+468,b43edb5ef6180a5871de87ca29c0342af0060c89dc1bc1b1872ef9166e15c643,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,4765,514,31
+469,8b511086e123e9550d9873893649509219425abe374afb34b6fceb2aafac7a72,Product Issues,Defective Products,Not Working Properly,0.9,4559,542,34
+470,fdf820baad9afea3b0a288fcad2c139b71d23c16d0af1330c67df868befbbd93,ERROR,ERROR,ERROR,0.0,0,0,0
+471,1df28bb80173faa5e10e0dd107a717726a8d4acc85b63e7b526fe81b8e91ae63,ERROR,ERROR,ERROR,0.0,0,0,0
+472,815533d6144c7015e2aaf1a78b3e1eaa81b853ed39aa5b295d53c5ac3ab137fc,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4864,589,32
+473,4679449ac2ab89c332832edd19304c1026401519eb8a20fa8c0e66747d9ad76b,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4774,430,33
+474,fae8ad559df67dcf722183d173b75bb982821ff98358e9ea863084bb21f7d8ca,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5568,475,32
+475,79254e183cf502c9af7ab87975ce7eed4697baabd08416402fb7261713fae022,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5289,609,38
+476,1a788a17b5c333e666df2281f3f6e4787b31e93d9c55c50ab6b7d5a9c2da0e4d,ERROR,ERROR,ERROR,0.0,0,0,0
+477,f72f5fe753c0e9de8ab4fab6cfd86b05f195d7ee7f3efb273e5faf1a41a171d0,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,4979,500,32
+478,b453117110d64a4604078b7ecf76fa5f4d59d7c70caef30d58dee65c74d15c72,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.8,5802,605,33
+479,c07e91f9421cfbd8e47dff1dc028e6469a9b5b22632abdadd5a661be7ae2ab67,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4636,750,32
+480,489e3532aa832e863f4b2e439b0ec7c15721b1bc415e4694965b8f9d1ef949e1,Order Management,Order Status & Tracking,Tracking Information Requests,0.9,4674,601,32
+481,eb267353d6ed372e02c5ccadf5abf0c0f43ad778a7f3083d6840db96e3182fd6,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,4906,487,32
+482,955a322d3ebc437a302a537b8b40dfdd745cd107822916c96b975966ca9353a9,ERROR,ERROR,ERROR,0.0,0,0,0
+483,7faf608f514b910a619983f2008b933017edf0f4f931e2ac609c5cc6e913049e,Returns & Exchanges,Exchange Requests,Product Replacements,0.9,4802,618,31
+484,3928f1bc14966b2f634671a8a1fe829f2390576521793495b69b7674709017e6,ERROR,ERROR,ERROR,0.0,0,0,0
+485,4c8f0fd9f11cbeaadc70e2f0eb72bc267dbc07cd447d554687c04fc19d78eae8,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4810,688,32
+486,b06fac0e1c233236d8fee127480a781393a2f9c725fd47ffeb2bd7e04eadf386,ERROR,ERROR,ERROR,0.0,0,0,0
+487,33aaa544524ab734a251cf1435739f411c0ae92fba9341969875ac140c7660d6,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,4909,679,32
+488,8044d4b8e119ed17ace15d63184c5c6a4849214386b8e526dce8e6372c6d2ce6,ERROR,ERROR,ERROR,0.0,0,0,0
+489,bbf2cfee2984097588b4a61175358dd24a0a706fc536120f2301ac6e1ecbb202,Billing & Payment,Payment Issues,Credit Card Payment Failures,0.9,4802,570,32
+490,efcf1a2ecbe5b07cc97b9d8417bc6df0080a2856e1dd59071947dcb7ec34c209,Product Issues,Defective Products,Not Working Properly,0.0,4771,627,34
+491,09237e200a008fe8caeb8a54095f5c4c74ef33198cdd4ae02ebb1b5cc8ce1331,Account Management,Login Issues,Password Reset Requests,0.95,4709,539,32
+492,30e2f85342a230666c6edb1e012bc4eda81d1da7dd35cf373571e0d38107d5cb,Account Management,Login Issues,Password Reset Requests,0.95,5016,606,32
+493,1049bdc6429da50e7f536d763b3ba3c50864b3cc60450588621ffc6608783fe3,Warranty & Support,Warranty Information,Warranty Start Dates,0.0,7942,859,33
+494,9d24702c9cde8e7619195f00f9a8b7e89f4a1da8b27a19c65c113dd55a7ddd4e,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,1.0,5378,484,33
+495,38f2ab130f98379f8b07f9ddc2c7761f18d3d85bb0f181bb8093528a66be8b71,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4858,579,37
+496,f88ff0eb03cfd21a79e3f34156288e0e5b2a05e71def1b3d4f5c6770e50a9ea2,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,4860,606,33
+497,de9e697b20e400b0b316c1380477dcfa873e0925cfa2bee367bb1842b310cf72,Delivery & Shipping,Delivery Problems,Delayed Deliveries,1.0,10198,514,31
+498,7f498b916ef4f7b8b9d9c59077fa5073c0bd5e9c9e9c53e1ad640ee55ca0b095,Returns & Exchanges,Return Processes,Return Eligibility,0.0,7678,624,31
+499,d28007c005a1802c66e433b94cc2cdbe2633341c507421010e51161f4da24bb3,Returns & Exchanges,Return Processes,Return Eligibility,0.8,4965,450,31
+500,7468325519b7803e22b467fb871f6add15341c7064fb6b637a0bd7dd5de8c0ad,Order Management,Order Modifications,Cancellation Requests,0.9,4667,690,33
+501,fd11a541df01bea55cd15532805c2ce89be13e2fd9c73f44900c97d2578e3cf5,Returns & Exchanges,Return Processes,Return Eligibility,1.0,6065,543,38
+502,96eeff414e29528cd6be46610e0172b37d4208a56f8d6003941425c6f0d6ec02,Billing & Payment,Refunds,Refund Processing Times,0.8,4983,604,32
+503,d419abe37054a7673500d2be9ebb5a6563dd880fb220e3753cdfc4007bb2a183,Product Issues,Defective Products,Not Working Properly,0.9,7952,547,34
+504,810da54dfd80a5b87d41361a0713b9d4f1b6837ef21eae89e0ec7bca95ddddc0,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,10913,567,32
+505,c943171dcb56d2c21bc863514bd0cc6b0d30d2a04dca65ca20b004c9672bb8a6,Account Management,Login Issues,Mobile/Email Verification Problems,0.95,5194,471,32
+506,ebbfe7008e4face3cb2dd7fcaceb5e1676bf10c929a8647f25d133512bec28eb,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,8924,615,33
+507,dbfae987469f3b7de15ba021ef1c75b7ddfd8e4f25db3e8f1d631bc886a72b52,ERROR,ERROR,ERROR,0.0,0,0,0
+508,58f21b4529f9706531014913046d32cb81408a18ac2b635b4939089570b4b2b1,Account Management,Login Issues,Mobile/Email Verification Problems,0.0,5038,582,33
+509,e53d68a4063b343d76f20089da0a88648c33f1bf0ed9ce71859edf898168ff4a,Product Issues,Defective Products,Not Working Properly,0.9,5353,619,34
+510,b2a3f26dbdd05a4b49aa1e2fff1576d4f4584ae8c4efa84e586f9de90fe6ebe2,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5048,643,32
+511,754726ddcf60a842961d5ad93aa42034b3bf93277ed9de5296ca5ffd7359bc6e,Warranty & Support,Warranty Information,Warranty Start Dates,1.0,4681,552,33
+512,19f22b27f708e9130a51eee795c3de9fab370e18a9c3204febda3a6fb0d96c8f,ERROR,ERROR,ERROR,0.0,0,0,0
+513,0ce9c6740bface1749ab4139de17f10219e28a0ea828bf6e70866040f8ecdd7a,Account Management,Login Issues,Password Reset Requests,0.8,7806,981,33
+514,78c3dbd5c5df279d5a45b70b0fbe5002e6be552a53a965236e1afa54988eb5a0,Product Issues,Wrong Items Received,Size/Model Mismatches,1.0,4767,515,32
+515,fe5e478b02f67fe8e0633c844f9921a0682bdee0b859ac698438932ebc977bd0,Billing & Payment,Refunds,Refund Status Checks,1.0,4975,718,32
+516,7c527cca0d431dcee5ca93f566bffe49499f027387173d10d4fcfe6930df7b84,ERROR,ERROR,ERROR,0.0,0,0,0
+517,e94c15a6fe3345eb81155fb4b2896de73b52a24973f0fbb572814b190874e9f3,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.9,4849,778,33
+518,0243bf09fc6e18c05d4595cd5735eeb801a7863848f2204c4b9013dd3c60ed06,Account Management,Login Issues,Password Reset Requests,0.95,4777,653,32
+519,1d062008bce0a9665bce3d82b8f7f5fc9af8ff6644c525a65fddcbfaff4751eb,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,5433,657,38
+520,0c5ebe829c796e96ff2343546aaa3465e73a6d6db9ef42d3fd09a3e3cf4cc955,Product Issues,Defective Products,Installation Problems,0.9,5146,522,33
+521,f971388102bc459d05e91cedde4ea85b636e1434f6f5d284a420bd1373d2d39e,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,4715,561,33
+522,ba46bc26b41ce8dda41b8416624f77cd2264bcb0b2e8e6c116446df5cce6ff15,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5202,551,32
+523,4d1ee585360e2db4d61f23849988273a08d60cf3cfe4ca21e69e62208c82292c,Warranty & Support,Warranty Information,Warranty Claim Processes,0.8,4982,700,34
+524,6fc6a3dbdf3005a8b04f94248b116ebcf7d75690a397d62cebc50739128db06c,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4522,492,32
+525,48f58fa7f035be0301b7955aa02024f23c54993e989ec97284b9e58ae9d7e03e,Order Management,Order Status & Tracking,Order Confirmation Checks,1.0,4847,566,32
+526,4df26cdaaad722fece562888ab1f3e800d0895f1f660248b05ddb5f22e2fd7e1,ERROR,ERROR,ERROR,0.0,0,0,0
+527,928b011c7ba23466b671ccf48c211f736ff3d553b6a9725f7b8fcd7bf869cbc6,ERROR,ERROR,ERROR,0.0,0,0,0
+528,ea2317c438618ac5e4b7dd4da538c7193a6a6c01fa9b124e16d2359ef8770869,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4553,645,32
+529,0132f36315ddf5fcae3e0bbf4afb0494a6dcc687979ba1ad29617427a738e5fb,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4898,634,35
+530,3f300bd9a2f8d4e75c88d1f8418200a5451fcc6664199c48c21dcacd60c50869,ERROR,ERROR,ERROR,0.0,0,0,0
+531,5774ae3b6ec409e173a68fb4ce46dcf9c1bc238237a60085808b7dc797233e38,ERROR,ERROR,ERROR,0.0,0,0,0
+532,2f6b2fc141879689a82870656824e07628a855827f5e7a903c6e6eb0955ffa33,ERROR,ERROR,ERROR,0.0,0,0,0
+533,71f5b9657c78f9ee126a5a78596f8e2f290fac2f1ea7d67644737be753cbfe37,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,4933,535,31
+534,85d9d2037c5ec2b902f90aa5ccdafd27b1b3fc9b8e01ef5482e4a43260fe284f,ERROR,ERROR,ERROR,0.0,0,0,0
+535,6c442ad8d3f78b119b8731c942cad10f4d6445807ad95fbc93c2bc84b1bfdfb7,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5468,560,32
+536,5e9f58fc0097b8ab5356d7613f8f49c80336a64c1d108951250ab32589d44128,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,4812,487,35
+537,a25896f52601d1f7d93c755368ab82094512b9068954cd685251d232ab5a4eab,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5058,701,32
+538,ba08fb3310155bc57349c159b31fa52e64d215c7335a50bb84f1dffd1dd4523f,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5043,657,33
+539,31515d04caeed72cdf4874fba7abf908b38dd32ccccc9f6725db45ed3f2712db,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,8997,895,32
+540,80cd674028a26f91058ae04829389e65dda6ddcb2f09770528c69ac13beba659,ERROR,ERROR,ERROR,0.0,0,0,0
+541,e23642d9a7d96d3cfb791f5acc860055f5c6725ac43026bb2454327223cda61b,Account Management,Account Information Updates,Email Address Changes,0.0,5164,824,32
+542,33e3a99dbea66ecacbde72681f53cfaacb2109dde44645f5120e9dcfa4c0bed4,ERROR,ERROR,ERROR,0.0,0,0,0
+543,4b991763c2343f69663ae437cd708fac16ba12c23d94e3cb5ca572fea89b10bf,Delivery & Shipping,Delivery Problems,Delayed Deliveries,1.0,7471,661,31
+544,b1385f8dec6ab2ff9b6c42843d66cb4e210f1b3c771ba459d83f053403a1f68a,Order Management,Order Modifications,Cancellation Requests,0.8,8063,596,33
+545,7b8314495516966b97cafa91063086841761ee70cb325736af2cfadfb9d40841,ERROR,ERROR,ERROR,0.0,0,0,0
+546,f43ceda19f9c033f61b163da6d88237b898879da024551b4ceb01057ec3053ba,Delivery & Shipping,Delivery Problems,Missing Packages,0.8,5251,648,33
+547,5cb9f87f3bc2818f0d841cada0e5896d6473ca93ef06ff36f7f78cb9dd70c3c5,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5368,502,32
+548,a7e12d50b2e3f835b253b43400ff79deac101ee0759870fa659a641798bec98d,ERROR,ERROR,ERROR,0.0,0,0,0
+549,596d0566d47e173ee2e95f9eeb7ba53cc9ece6b131979e4264846569a5af9fc4,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.95,5934,790,33
+550,cfd59132dcfdaea1be9fe7f60ccd7b5eda484a6fc95efc840cbd88f324b54a57,ERROR,ERROR,ERROR,0.0,0,0,0
+551,a09db9694fd90b0910ff5fa16785885bab3877b52a5e6a056087d56357a40f2c,Account Management,Login Issues,Exceeded Verification Attempts,0.9,5880,641,35
+552,5c12de8b1bb07b24b79718c7700f9fa3b177691333c46e9f883dca7b2b60dc80,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,4747,690,32
+553,f27b1d86c3bdefbab2a36a7dc786906cb594df5ffb17f8193819aabdac4722af,Billing & Payment,Refunds,Refund Status Checks,0.0,6015,737,32
+554,16dd6e330aa2b63ec1d5c83015e295215987d060211db73ef218947332dbc592,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.9,4910,589,38
+555,0b04a650a268822ecea82f287e4f9e334f102da04763a351ce423ced3f666f7f,Billing & Payment,Refunds,Refund Status Checks,0.0,4850,747,33
+556,3ddc716763e0de1834e4ceec8c3345f1ad741a290623210b257bdb60254f679d,ERROR,ERROR,ERROR,0.0,0,0,0
+557,befd9cdb7ff9c928774d882fccbd36edd7ed46cdf5c133f50b96852ce9f40d53,Returns & Exchanges,Return Processes,Return Eligibility,0.95,5363,526,31
+558,233eaf1af53ffd221bf37b25c17ba8ec43ffc89c4fa077dd348082ea8c2a90c3,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5303,581,31
+559,cca85628435cfafd8523ec44f3e70b6d7dfebfc16ae12023a90810b755df33e3,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,1.0,5054,580,34
+560,de7d6525dd0b8fb778af288848e9b3f37930c4e20b2992da5747b973a902fddf,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,5429,571,32
+561,3f53f041d0ecfefe4153bf2c09b996cb08b0def1692f30f81e0e0aedb24b81dd,ERROR,ERROR,ERROR,0.0,0,0,0
+562,01c2e2dad37fa7d33b4cc0905c836a4f7d037ce61ddf56bb4424273b927d2bec,ERROR,ERROR,ERROR,0.0,0,0,0
+563,24e512797f16330778210867da85e634384290ea1a83719312fca2a5ae5cc0bc,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,5553,552,32
+564,5e365c5ffa37fe73a0febcbf850ce879c924f8f5afc0b97e06d50536f878c413,ERROR,ERROR,ERROR,0.0,0,0,0
+565,361cc9af89b30fb55b30a40d048dd1b600298f961d1c5165f67e97da9afabe72,Returns & Exchanges,Return Processes,Return Eligibility,0.95,5580,596,32
+566,8fd087372940fca62734d4de447aad863ec4e6346a4bffb180d08aad80d81d09,Returns & Exchanges,Return Processes,Return Eligibility,0.8,4819,548,30
+567,c42e6cff570a58fa772ea4da13f0681252f33cd75271b71dc3188a50924dae6c,ERROR,ERROR,ERROR,0.0,0,0,0
+568,5a8822bcf6ade461959e225f635227b00733f0fa92237fe3d5bae7c4708b7cf9,Returns & Exchanges,Return Processes,Return Eligibility,0.95,4928,586,33
+569,a17e935240dd37e8bab5147d0902760249cc03cf1e9d90d526e361cbcce72501,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.9,4921,869,30
+570,72e4e3f0a58babc2014475ddd3387b86af223d41dc240a0bd14038fc23881043,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4849,629,33
+571,e815ddf04e4fa36ebb823c06a64d585178cfb9ec1670ac7daf6d38199ae65666,Order Management,Order Modifications,Cancellation Requests,0.95,4810,375,33
+572,c638941a822fcfeff12f9940667f22ccdb98a3c9bcd60fff4e3bd14aeeebfa22,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4858,523,33
+573,926cb5dbc17858e8c4b3f6373dfdf38f26f1fe20815cdf07e5299411352b5685,ERROR,ERROR,ERROR,0.0,0,0,0
+574,66705aa9921da342c840a4407ef31c4b79804deb395b7545dd5086ae5780bac4,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.8,5300,866,32
+575,1d64cb24196f474f47d56468b8a739b9ca438a3c95270226e829a0ba1cf31ba9,Delivery & Shipping,Shipping Options,Shipping Availability by Location,0.0,6078,735,33
+576,6774fb8ade892dd5868f7e4c09cc6d5130d2c7aba435042d079a598a15afc05c,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,4942,593,32
+577,f783996abcdacf400fc1c8a36bdcbe3d53039e8aba8efb62d94c538c0bcf9119,Billing & Payment,Refunds,Refund Status Checks,0.0,5594,725,31
+578,a8108ec456edd6f3631c2b20fac302622a71059b72b303d8b0e2ad50bf09c52a,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,6359,599,34
+579,b6c8d04a1497553ba5e585e1d0434efbf1074df3283094f98486535a21eafe4f,ERROR,ERROR,ERROR,0.0,0,0,0
+580,6f07f3c99109506cfc5424d606a779844f8cdac8f05b3365de6c5c25ef1b3692,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4720,522,32
+581,b59ff7ed6b63925656173b3d4196d2037a8b8de7d0eef046045ef78a446cf51e,ERROR,ERROR,ERROR,0.0,0,0,0
+582,220b385449263286aa36bf0b0022214ddaf11506b96eee94b0baee75b703036f,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5288,574,32
+583,6d4266e45ea8f05f70d0abbbadfcd3f2b5fd9b6739fe282ca703259d67bc9e88,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5536,854,32
+584,2d3e4a564bea8cf6c26297a402873f04acf065d932ae813674819f13bc65db42,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5061,612,32
+585,b1f2999a68d15d132397305759556b618d9008fa312509d409f02e1f68641a22,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,4687,507,32
+586,a2dc74112738f00975f717c50099f71a8f2fd1cd60db3a9dd23d7911bb5e423d,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5107,619,32
+587,3f92af5d4179c245ea9470fcb4ed5ea8075358abcebf8dddab65dacdb1d5d569,Account Management,Login Issues,Password Reset Requests,0.9,4247,547,32
+588,ec9dce6327461efa6783fd696010e1142d3dc942894a280edfcf954f0aa9718b,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,4960,772,32
+589,249a9a0ffeed020bfa633d7c33cea83bb4d8e9f32726092d8da9e70555d528d4,Product Issues,Wrong Items Received,Size/Model Mismatches,1.0,4947,724,33
+590,2cb8b65bb682f6793842d42680d56ae98a5f4e32dffe3bd2d25bda62268ff82b,ERROR,ERROR,ERROR,0.0,0,0,0
+591,75546540595b01b004a518a7acdca899d11857942041b3bd8f68c4163a32ed09,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5232,619,35
+592,a0c142da6ecece557bfa8757227e02aead17d6c52bf25a3f55c2682ebaa9c39d,ERROR,ERROR,ERROR,0.0,0,0,0
+593,e9477e228bc7530e7330a93b340af27ab705bf184442b348e3231dacc6cbbb6a,ERROR,ERROR,ERROR,0.0,0,0,0
+594,72bedc6f302d6fa9d05aa6a8432624574bd0a4e08a0c2bda914e2ab08e7f0de8,Product Issues,Defective Products,Not Working Properly,0.9,5619,644,32
+595,4c33222dc7ea14f8d4aa7f7400f18b39f09263d9701e50fb3a52f738454fb837,Product Issues,Defective Products,Not Working Properly,0.0,5438,592,33
+596,71fd1bc56b70b0a8c4c2df546e60ce40a1f14e27b6ad9b86ac2120ea81c00c4b,ERROR,ERROR,ERROR,0.0,0,0,0
+597,d08be9b14c2552b8edf506ec9526379c34068775ec8166f9d4d43b9f0f40f1f0,Account Management,Login Issues,Password Reset Requests,0.9,4684,680,32
+598,317111f4b68d10e0966ef1c3a4d6305df67ec3c57aca642ed22fecb2c5fa0662,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5566,703,33
+599,b28ec3d513739d9105d4122cfc3f990ca6acdbabf835fca38d0a2aa9f6848751,Product Issues,Defective Products,Not Working Properly,0.0,5358,1042,32
+600,358aef3a283bea1ad2709b0d20b44b6a0d4b86491a37c2bbb88cd8243ec822bb,ERROR,ERROR,ERROR,0.0,0,0,0
+601,26eac8ea4f90970fa9876c5aa19e4d184219d3d65c0d351b8d898eda02b78a66,Order Management,Order Modifications,Cancellation Requests,0.0,5062,514,32
+602,e3f9e51a1ca2f2af9aabb0272c11e1134ac53af992b26459f5749c2ed7e02f1e,Product Issues,Defective Products,Not Working Properly,0.9,4959,598,39
+603,cc23a4110fec0716eaf292e9d707df2fb8b22a618ed0a1430ca3cfd371b37d78,Product Issues,Defective Products,Not Working Properly,0.0,5027,632,32
+604,155414803c3a8f7c89de38701dbb6b5df57cab361aa9e503966616c085f30ba7,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5511,536,33
+605,72ef182041f2a63b1fcbca837ed6649d444090c9099ec185dd5f415dcdaa95bf,Warranty & Support,Technical Support,Product Troubleshooting,1.0,5548,583,32
+606,5aeaa1d593008c73af3d65ddbe2489e171bec6cf10dc09cca6c55421643107d2,Billing & Payment,Refunds,Refund Processing Times,0.0,5962,377,31
+607,c7072635fc107f62c7db8f796aab1bdc02ab56d3223c15cd7f92dd493772421d,Delivery & Shipping,Delivery Problems,Delayed Deliveries,1.0,5876,615,31
+608,b741ea15bf04fab7b995bfa96b5d190a7de854860d85fdf64f13cd9a208cf9e6,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,5346,574,32
+609,72cad1fefdb4091bb7408e71153a4fe0c40ddaf635f8a43bc726fcce2c8df445,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,4895,642,33
+610,d0cdaf1cea63954914967f1aaa562417afa064d66f907cdff51a8df626189d6d,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,5080,505,32
+611,3bd6f1d71b3713afb35cff96b9724eb94abc79d37a710196dc2795a0729ffb2a,Product Issues,Defective Products,Installation Problems,0.8,5008,725,31
+612,074aca89feff1fe556d3e6a1add419f83fc710babac7e697826096abe4d7152b,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,3185,599,37
+613,d38cfdfea680a85a7a913790f3d7c144a8dec4c5eddf1b6ac7c87ff88831c83e,Returns & Exchanges,Return Processes,Return Eligibility,0.9,3869,626,37
+614,a514a85bbd774219f2aecca49318bb30ed1ac240cf3df3b8bf660d5ad202a9a7,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,3300,781,37
+615,784dbe6e4c614eebfbb6a125e7ddab2ff8bbe6e6bd956320a3b32701935e3b7a,Account Management,Login Issues,Mobile/Email Verification Problems,1.0,4925,545,32
+616,1351865a57e740b0e227f8fe66e9082d0000737777941c6ec681b104471ad071,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5091,634,32
+617,c722160e52f4d4529136ac388a70374b3fdbcf52b085fb104c800c81f5cf88d4,Returns & Exchanges,Return Processes,Return Eligibility,0.8,4797,706,33
+618,10cc1157da30e02299568db0fce53e8608afa28869db4d7a6d434c8b99db22b0,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5996,731,32
+619,b19a33c6ec25c0e52c17e901e26926752d5b8db8344afd5124ef896be8bf1644,Product Issues,Defective Products,Not Working Properly,0.9,5548,571,33
+620,3706854bb7bf361b63eb77270268266a73e0041605189c5416617b5497f7964d,Warranty & Support,Warranty Information,Warranty Claim Processes,0.95,3117,616,37
+621,3debacfd5a1472365a099816bffa91845f580b8028dfdbb476149e9e5deb9814,Returns & Exchanges,Return Processes,Return Eligibility,0.9,3426,653,38
+622,ed9ff65d3bd3e9cd0d49f9797bce43da729c69272a60a2339594b794035af8e2,Account Management,Login Issues,Account Reactivation,0.9,3348,672,38
+623,e9849e152e0e8f6b3ba678ce2056832332c605224b58f26400a7768900d52b68,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,8244,514,31
+624,9b8a23fa4eb3f9c3af99beb2f6bb4dda16b0646fa0c75740bf24e4e918b25ad0,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5582,522,32
+625,aaa17f2134cbb152352baf00cfca77e81168d130a22a8aaa1f3cba3d626b0767,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,5018,615,33
+626,688104b9aa3aeef8b2eda35265c531d521b2c073cb1d98e5fa1cff19e9b7884e,ERROR,ERROR,ERROR,0.0,0,0,0
+627,ec0b8d1732be1e6fc6a2eb908fd7e3d4b6b4441ae773a1cbe399c97269139152,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5332,879,34
+628,b322485cf5dbff1d781c2c15e6b3b59ade4ef7d2c26f6130975067af5796c89c,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,4740,607,30
+629,9625da85fefcf6a282684ad957cc26e9607f81eb438c4e1aeead2584208269d8,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4724,515,32
+630,26cb3986b98e106ab0e50ca8ff8e1305496cc0ae19867d5d961b041df75b40cd,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,13234,671,32
+631,1416268588abb25d582f04b60769329f4cd83233bc0aa9c121b95bebd2d2b821,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,7106,676,32
+632,6d2c9790fc06b255323dbb5451ece7fa17fe4544bbf7c683aa374c91b59b0211,ERROR,ERROR,ERROR,0.0,0,0,0
+633,6a3b3232e3ed94c73b695238df16a3bfa5d051af58f5217eceed60a53f6042aa,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.8,5348,720,34
+634,ab79a3bebd84b129ee350c1c63b6c0e35d0f88c1b8a488714f7ffc56fd7c1483,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,6599,633,32
+635,66a093e8d8e824dc1c6ebfdf454077d054d8e8bee5abb9a95be530c59ded6375,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5840,670,33
+636,1c844eddac86e738345f13cb3f9787f8c7919412f9a7917242f0db8c96e9894c,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,6191,670,38
+637,858ba0299813af3afba36e76de6f038df9e514f141226f99c4e06059917cc405,Returns & Exchanges,Exchange Requests,Product Replacements,0.0,7557,817,32
+638,11be1a73914e391960665805f92bed90c4ec2d8c371ea3c8ae0ebb7f1f18d749,ERROR,ERROR,ERROR,0.0,0,0,0
+639,c4a41f404bce0071e70d53815451c3d81af582e13d8cbacf1f0114d34ea6bf05,ERROR,ERROR,ERROR,0.0,0,0,0
+640,7712d3e1c73a6908232bb60b2c99612066e5e06206919b877b8f64f987cdbe36,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4880,474,32
+641,3bb79d76180900ea5f8be0a9875a9432013af235beb480a925e59e4922fa9d41,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5316,522,34
+642,38ac09b859bfe559e3b547e9ece18bd5965e864ac5ceedd86a3551494026414c,Order Management,Order Modifications,Cancellation Requests,0.9,6082,553,33
+643,fba41014c5e3b8af8226ed05961eb42a3235442ffec363aa81d0e6bdf4dbdca6,ERROR,ERROR,ERROR,0.0,0,0,0
+644,1e558e18e2974677964831942852f45ca3b6fd62c2680e20cd1125c46f193fb6,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,4817,584,32
+645,40a9d90e8584bf7319428457e5024bdda7674d6faa1e3890be6cb2069ca89d66,Billing & Payment,Payment Issues,Credit Card Payment Failures,0.0,5128,689,35
+646,6fce989d39e8e7c47f5f167c3747e042b4eddb8f330ea520293ebd72a8db77d6,ERROR,ERROR,ERROR,0.0,0,0,0
+647,c11a4123c33506bd9780f0cd33761889a83a14660dd5edccb78aab4ff23be656,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.8,5900,685,33
+648,fa6fe74903407a6a0bb2dbaa219c67f93cf92fae70b5b4c581c34b13812e2996,Account Management,Login Issues,Password Reset Requests,0.95,4943,570,33
+649,ed303484f232b1654eb42b5103d1df820d7a6ac7f89cd1368791780e7efe5af3,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4656,620,32
+650,d7561d90d323e6a69dfed687b5f39783995b80863fc6efc432688082fad50b72,ERROR,ERROR,ERROR,0.0,0,0,0
+651,8c89442523761b5a7fb24f2b6d710c7f17e86705bdc54d0bea08fc0548eed9c6,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.0,5465,553,33
+652,4ead6f93e269d667d787a7efb8e7da8c44b7fcbdd117eea48dd13d878c8f4f32,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5030,786,35
+653,f9603a1b22e7947da01ad5630793787c97a4f31e081f47e6b35add533c5cb4c7,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4765,872,32
+654,9d023062ccf649bf6aef6205e9bad2fd60a5f77654e48b1dabed807867691183,Account Management,Login Issues,Password Reset Requests,0.95,3864,515,32
+655,f6bf2ace246ec60e951af28252b309eb214cf01d6331af379106f4269f0da213,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,6183,506,30
+656,38c68c5b424fc8a96f2511189067d7f483c957d465b173409fdfc2ffc493f044,ERROR,ERROR,ERROR,0.0,0,0,0
+657,24dee67d70cc703d6c2021bb34248b0efa2821bc43f48438566c3405d79ce0f0,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5169,687,32
+658,30abdca71f1827524923ccf32513620591646e12898d3540563c8074a029b6dd,Returns & Exchanges,Return Processes,Return Fees and Policies,0.95,5109,635,33
+659,94a32965279fdd8a3b42bb682424599514e5511440f2c8d5a7f6fa2de954d3dc,Order Management,Order Status & Tracking,Tracking Information Requests,0.8,5291,637,31
+660,6147725c58411dc683f4bb6382a282df21f4f969a32b639348d51ff2eb328afe,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,4903,658,33
+661,a2c191eeb9a784b13b6473959bd720da1949357ea46e5736d7de0612533aaeb1,Returns & Exchanges,Return Processes,Return Eligibility,0.95,5272,918,31
+662,b6247de86574993d93b5156cb2c9ca053667a514b82c5c1b01f4fe2439a87aef,Order Management,Order Modifications,Cancellation Requests,0.8,4607,535,33
+663,9e380aebd52e6704ddfa4885f6e7771f727458cf74b6773939d1a1bf6fd98e2c,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4699,613,31
+664,d8217680e8d2567ad75baf7ad88300d3f16005ea05e98a2a605fe3e76ed6b1f5,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5080,782,32
+665,96ed4a2e577f9b8ace700b6938ef57dd3521014ccae4c4c94423b952b804e12a,Account Management,Login Issues,Password Reset Requests,0.9,4989,483,32
+666,90302e113b492385e51094b7531a4205eb289fd030162c7f5dc8424f174b74d7,Returns & Exchanges,Return Processes,Return Eligibility,0.9,6457,653,31
+667,27fe45d14cc0c5de4461dce651020291ccc7beb54011769e13cd49796ce28820,Account Management,Login Issues,Password Reset Requests,0.9,4809,743,32
+668,fb17106c4d798b02ac5b0ca7a5603268c123081b25b24d3936b786c5f70d862e,ERROR,ERROR,ERROR,0.0,0,0,0
+669,d022f2aa7987accae373c212095266f12344b165a11051bd3e85069c045353c2,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.95,5394,543,32
+670,57429e6893d61bd9da75b5dd68f7db0289e57c93996a2d821874d4566699e312,ERROR,ERROR,ERROR,0.0,0,0,0
+671,9726441a0f1654989f6b993030aca3acbfee1676205935669b1c93c16e4ac0e0,ERROR,ERROR,ERROR,0.0,0,0,0
+672,8697308c4fdd219fd78bf06792bec4d0cd3b38c84daf25c3852493f0290605cb,ERROR,ERROR,ERROR,0.0,0,0,0
+673,10f9316d5b92f100494992535717cdf9a64a6d6162b07dde6439535dec512632,ERROR,ERROR,ERROR,0.0,0,0,0
+674,b64cf0c0520853ca4d22375e6e23bd53b0f4e721f77c41703352d02036b82c90,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5324,820,33
+675,0907beff4be98111999750285ed221053cf433f9fafdb1361349e93adaef520a,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,5065,971,33
+676,641a0fffa173800c82755da9b525de347788027ba6e171386efbf1b3ba42c287,Billing & Payment,Refunds,Refund Processing Times,0.8,5557,591,32
+677,cc2c12f341f081671053f0b8a2c802db5724918c11e707d4f1626b9d17978f19,Delivery & Shipping,Delivery Problems,Missing Packages,0.8,4775,703,32
+678,468a2fd4b974536dee7eff22e55643ecc3b566d2a4ac865d840bf482fed5ee45,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,1.0,5086,563,32
+679,3bb8e267404d365f023ac1b5a6e208795c8a2c9eba394a56bf258e82bbe8d603,Delivery & Shipping,Delivery Problems,Delayed Deliveries,1.0,4655,622,31
+680,acd5f03af2b424042260473de51801aba5b72a6744cd98d0f3f4a1b1bb7f5588,Billing & Payment,Refunds,Refund Processing Times,0.0,4880,573,32
+681,11adf984e475b660046416d39efa069a79f1652c8ca52fe7315186f2c897cd3c,Delivery & Shipping,Shipping Options,Shipping Availability by Location,0.0,5333,928,30
+682,2e67612031d1b53b6e438e88d9837d4c028bc722e3031d941c92041b879ea7a3,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5035,517,30
+683,d8134d2708137a0222b0f07933a26abc72e58ac4162e32bfe3a545f2b2bab09a,Documentation,Invoice Issues,Missing Invoices,0.95,4752,547,30
+684,6ef840243d8fa3a980f9621c85b7c4edcc3d83eb00d7117c1837a4da94239a17,Returns & Exchanges,Return Processes,Return Eligibility,0.95,3439,595,38
+685,e44ea4a4359c3fe76d116fd763fa2488c2d8b86dd237a22a62f222fe6408e652,Returns & Exchanges,Return Processes,Return Eligibility,0.95,8644,622,33
+686,78205e57b0be3eeb3257574f199eec402186f7e94f2c11b97d399e39b9cfbb6f,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,6321,543,31
+687,9e26b8f7c7cca97a1b4e17e4f9129d0011703f372f4d6ab9958fd713817145f8,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5718,831,33
+688,0ad2228139452e5153f00ac1c7c6ade4913c6614dc8865d47580e7aec141d8d8,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,4755,518,37
+689,462f1d1e06b2403d683d4054fa791420f7e54a92df5e7463b0b6d1435038f516,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,5784,568,33
+690,e2ceb256022372e14ae9a0ba67f418313cda33efe06d32e92489b520ce5dfbdf,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,5378,701,33
+691,8f85e40be293fbe64c27a94970c476e2a31e390ff044492dbbe4bc84586ac9b0,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,4953,749,32
+692,99cb2998784b3477c0af8d58fd94c45a90c0562334714bd8dc8f38cc0fa8cb2b,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4782,559,32
+693,1638f7c5142d14f4b0eb03ad8a0aaa22efff5bb674f07bc0fb5ea7235d841042,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,3936,523,38
+694,f15016e15b28da9836300f047a5d59b7626024782a8ba07c25fbdbc95a600827,Returns & Exchanges,Return Processes,Return Eligibility,0.95,2943,787,39
+695,89ee2c73522939148cc56a851aca29069ef3e0a65b0bf27279af79a2c65069b1,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4800,726,31
+696,28378bdcd198ded705a43e09e0ea08a5ec3f49b0d5b77d3c0c3941003e3db8b9,Account Management,Account Information Updates,Email Address Changes,1.0,4673,661,33
+697,b1e4ef0920a137f178fa8d342e6bef249acb93a854bd1d4659d69125d3f59c11,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,1.0,4897,676,34
+698,1e1f6257349a1bf561e13bc1094371711db5029fdbd9d30617e7e4e13bafc2bc,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.0,5130,638,32
+699,29f0392e42fed157bef2e69d2082fe473e3bdfbc259af6a9729ec5fa8126be9b,ERROR,ERROR,ERROR,0.0,0,0,0
+700,554803f8178a4b3882ee977bec75344259bfe589a5d0df690eccb79a8ed424db,Product Issues,Wrong Items Received,Size/Model Mismatches,0.9,5104,669,36
+701,f6b2555392dd39c989d71bc4986f09df5d1e42587af7a49fb90a51a41f99f0fa,Billing & Payment,Refunds,Refund Status Checks,0.9,4885,710,31
+702,8e4a5b44bd75535d48e67129f94bb557888d9607c4539623e09c77658edcdae2,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,4884,695,34
+703,622bbace10d8f3fc9624617a5bd5a8fd26d4676d27b802a08fc6ff0484d73d47,ERROR,ERROR,ERROR,0.0,0,0,0
+704,0e4dbe98f15334bdd2d00f1c96c78e558374bc00269404c3f9d91d6f33888697,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,4773,488,32
+705,6b0310e31b973f0af966899c73c6fec1876a1e99175cd449ba524b4deb027f4a,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4707,733,32
+706,b25cf8ec0bc1b87a6bedb74e00c58dedef419cffbb946486ce5d2ebb37d5c643,ERROR,ERROR,ERROR,0.0,0,0,0
+707,9b7a3163cc2ba3488fbff25140ff126d53c7369ff481095619a0cec01043cae3,Account Management,Login Issues,Password Reset Requests,0.9,4755,619,32
+708,200e91831be410ca1a7cbaf0f6b97ffdf68fdedc5ff48ef61fac4c199ded0601,Product Issues,Defective Products,Not Working Properly,0.9,4716,658,33
+709,87b98bf6517779f92405080d3ff792f2ea8d92170582c4b991e65efc23d98713,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,4546,630,32
+710,70fce285f2161afc5c8419d5dc17db686478efde1cf5a7d7413ef1abce7f0c16,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.8,4668,625,31
+711,21915aa735beee40e45c7a2c32b16b8231f14399f83940c782bbce991df0fcb8,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,3327,521,38
+712,54b3aa534751b1af4756769e0ca7a51a924b6b2b6f5a123ee543fac5d4d7330f,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.8,5318,540,32
+713,2e28d78396dacf20a811682a28e748df7f9fb62f75281134493d707c794924d9,Billing & Payment,Refunds,Refund Status Checks,0.8,37563,688,39
+714,a5aa28b5b1c0f81afa12786473f036989d03105503e0994aefcf3ef4d8864755,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,16775,710,32
+715,677c163c8b7124d369b57d522c9f001485058e7f004dd8f59e1e34106f91893f,Warranty & Support,Warranty Information,Warranty Terms and Conditions,1.0,8372,452,31
+716,9eeac42e3e7505822ca4c213db45ca1f18e472f079232a12faebb31830dbb470,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4909,495,35
+717,08b7f398bb7d3a81f0c0809cc7038cc180023f7c24681213ee638b5fde2fff14,ERROR,ERROR,ERROR,0.0,0,0,0
+718,51c3d1e23e422a7de53673dd52bee18a1887f40db47eb999307d5501742f4f3e,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5309,586,33
+719,94d0ca25c858ce68a43644d7fd1bf8e2d7415905b3753993c511da7ef7e2c6a2,Product Issues,Defective Products,Not Working Properly,0.9,4965,680,34
+720,eda459536f91b35baa7b2b561f35f3e206390fd56c83e79d7eb7db9a399b9b50,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,1.0,5925,559,34
+721,93134ba197af5847a5fdc2a4b3fb953cb6cf979d4c122fa100a293b0cb1428b3,Warranty & Support,Warranty Information,Warranty Claim Processes,1.0,5369,801,33
+722,0f2a7e3833561696970507dafce4d1d1992c3913de6074b7382f536b29ca330b,ERROR,ERROR,ERROR,0.0,0,0,0
+723,e18a500b233988e69089bdd4f28e02578c2a8ce1f1f6995ee0ae9ca463dee407,ERROR,ERROR,ERROR,0.0,0,0,0
+724,8bc74617674a627a11058f5b1de50faf2fb8fed85c2093e15a1a81412769d61a,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.0,4914,621,31
+725,4b064fcf8c380d35c4e4307f58f65a679c668dc10f934ccff22d9162ce3f605f,ERROR,ERROR,ERROR,0.0,0,0,0
+726,71675d1ae9425862396e9b9b723a43ef44929835bc2ed1f57ecd428980fc9032,ERROR,ERROR,ERROR,0.0,0,0,0
+727,b370a371984bb7cb217758f4afed213e8cf51bcd4bc11a8789a0973b4953bf1e,Account Management,Login Issues,Password Reset Requests,0.9,4814,615,32
+728,bf190d70cf3cd82a190b72339e0c385f1809530560f71617b79ad3447dfc7de9,ERROR,ERROR,ERROR,0.0,0,0,0
+729,52533055a4e3ca85bd7e7142eb5cf5e522dc732cfaa91ccdcdaa2bf12a1c44bd,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,5931,624,33
+730,f6e78a91dc8941f59d83b4e8aba76408fcf257d3a1d1daecb9ac22c717016340,ERROR,ERROR,ERROR,0.0,0,0,0
+731,3e8083db59c57100845d33d422ee9fd6034ecb23de172d83360f0ded57853c84,Returns & Exchanges,Return Processes,Return Eligibility,0.9,26472,787,33
+732,4023887575e008b42046b434a4f33d186de0de032298939d362c8918a9df490b,Order Management,Order Status & Tracking,Tracking Information Requests,0.9,14968,625,32
+733,933a10a14216abdd7fafc7908f2a437642ff982873bcfd2d7d915f0babbdee1c,ERROR,ERROR,ERROR,0.0,0,0,0
+734,36cbb45bbf178db256533583f0f42b07917ba16ea80bba57bf16978748c80476,ERROR,ERROR,ERROR,0.0,0,0,0
+735,b5bb082128117957c218b5cd3876f62ea19b9817b42b2815fa04120b2397541d,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,6571,1012,34
+736,f6b814cf1c35adac317378b6969dfc852ef34d269a9245965e9ec7ad4ee81cf5,Warranty & Support,Warranty Information,Warranty Claim Processes,1.0,6606,696,34
+737,44eb9176fb1eab5e102240d61fbe01bda54ae90d9b8a200a939d9eb01e48d761,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5324,714,32
+738,1085504035724aaaf6b716e57952c937c17a2bb07a3dbaf06fdc3c04e3b4c416,ERROR,ERROR,ERROR,0.0,0,0,0
+739,3d7c380d8350e0ce0f5b5f57f7cde07879d81ccd982c7e27582047480eef2575,ERROR,ERROR,ERROR,0.0,0,0,0
+740,f03cea41a0c9850ed3f5301c899f286ecef8ab611755a0ab8a13a757f169e615,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5144,564,32
+741,4cedc5d367f7727eb720f1ec7df3015e72990084d3391353e8a3e491a327cbf9,Warranty & Support,Warranty Information,Warranty Claim Processes,0.95,5939,661,34
+742,68a2eaa705d329635baa5d1cde5921a767657b1f4d8e8baeceb3977db6513d87,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5693,680,33
+743,c3160693b5296fc3fb3307a9f64ceccb01e023a5e708d6b8d1b006786dbb28a5,ERROR,ERROR,ERROR,0.0,0,0,0
+744,0e4aae047439204fc42c94425662539ccd4f9577237fe7ba8997962ef21eb17d,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4737,701,32
+745,ce4d00bab8e5260dbf7e3153eaf198b74c3c198915f2202e88aaace99578f4aa,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5296,687,37
+746,b6d944346f4abd0aadab1bad5c9d127bc0994d1b60365d00d750b1c1a3891265,ERROR,ERROR,ERROR,0.0,0,0,0
+747,4033dd5a47c1ea0181223ef9c38b22967ba8e24350ff6313c7b30001bcf39a6a,Returns & Exchanges,Return Processes,Return Eligibility,0.9,64586,994,41
+748,310b5cef59a994b7030bad3ee28fbbcb650e4d70a4e51867fc5f58813016853d,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,8794,537,32
+749,6f9233ad67500b54a69251a7246be49f4a0efda72405c8291560ed69b6b88b47,ERROR,ERROR,ERROR,0.0,0,0,0
+750,f74de386ea4bbc38a991e902a29d1f69974fdddb7fab42cbd2b1c5d117a4c0d8,Account Management,Login Issues,Password Reset Requests,0.9,5716,568,33
+751,e752346d4710546f3785094df194f82593934ad2a54a8acc2374bf9e03b282c6,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,6730,670,33
+752,8f621501f169bb7318143c60be574d96bfa4633972835481fd0d12024e104145,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,9887,568,32
+753,9349b986efe923fdfbaf10285140c994a4d9c2fa080ad565891104db22a42450,Product Issues,Wrong Items Received,Size/Model Mismatches,0.8,7635,906,32
+754,a5636d57c5649cc739786be2cc50951c8c06e226b173b5688b2acde0787cf83b,ERROR,ERROR,ERROR,0.0,0,0,0
+755,ed927598532460f89a9cb99eb1ac1f5b677630049adb3481089c72a40ca35b38,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,6234,685,32
+756,be5007ae1d0b03262bd2896bf1c302c5358a03c051bf0c263b529128a38c0b02,Account Management,Account Information Updates,Email Address Changes,0.0,8363,636,34
+757,71da757c5ead9b4cf6c3d6151bb6ed6a0ba17d0fb967078f573320101a9e61b0,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,16665,561,32
+758,88be9be656aca58bcfc040ec3c21ec91d44ea0fe6b23ed168bde9af82fbd4864,ERROR,ERROR,ERROR,0.0,0,0,0
+759,4167fd84db5e53a84068d87bbdb4479523d8490060201a5ba6b83e1a6d81da48,Returns & Exchanges,Return Processes,Return Eligibility,0.8,21123,660,31
+760,eb74d79906965108e5d01fffb9f466a5a75f9ff5b08873cad563e968e58b0d79,Returns & Exchanges,Return Processes,Return Eligibility,0.9,19941,696,33
+761,595751845545081dcb6b69b1490d0124c5bf52f642063959cd28dc06e9135258,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,28421,630,31
+762,844f943839aed9f1c0b2af8f8eb12cff1ed202efbc928ba6579a39b83a795bad,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,24870,695,32
+763,f1fb1298cc3509e6129f55a1300ed8bc2ae7f33360b6fe2a767955a2143e89b7,ERROR,ERROR,ERROR,0.0,0,0,0
+764,8538e764578f35bc114dd2d5ce7e3a37b864aacd05aac5e9573bd9ab75ee6e79,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,5161,503,32
+765,270c79e09cbfbe5a700abc63176d49177cfc5bea08be3713f6deb1c6c6dc7287,Delivery & Shipping,Shipping Options,Shipping Availability by Location,0.95,4769,649,31
+766,ca6e6462da95cc4db7640756e4b387824b1159fd36cfb1acb8e3871966e69e93,ERROR,ERROR,ERROR,0.0,0,0,0
+767,0ec7d855634ee4b90db37d9923abba8729aacc105fcd85242c505e6b6199dd98,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5343,682,33
+768,209add5a749b8cff2fd3cf5232f8a5aa8cd57f6e58e68a75d8dab6536b906276,ERROR,ERROR,ERROR,0.0,0,0,0
+769,79afea9938f5dc794c74142ac3b7f73d1289aa63ba4b8248031dda4daff43a4a,Account Management,Login Issues,Password Reset Requests,0.9,4907,575,32
+770,02a2f72d4e36a82a020a3128ca7fb0bd890d65c8a600d68991fcd7e8f79b7823,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,7876,420,32
+771,6a1b32d6dc3eb88d2c3c9aa1bd27374fb3fa49754927576eec6255b71ee05627,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,8807,606,33
+197,bb2aacebb9fe9ce863a4aae771721c1f77e6c0d6dfe61ca81a16196dce9262e8,Order Management,Order Status & Tracking,Order Confirmation Checks,0.8,5733,178,32
+773,17b1a92980df336d02fd574fa64776f325f501cdeb7a62532985051a16f6de74,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,6676,681,32
+774,9a7fb3f33c46277f3fe981f9bc2827b57e9f91e3dadb5e29db30f337f6d6358c,Account Management,Account Information Updates,Email Address Changes,0.0,5499,583,33
+775,dcc0c5ae35e46220ddfaa89cc8cfe2aefcd23a2dbdc90b32c5482e730ad4bfc8,Billing & Payment,Refunds,Refund Status Checks,0.0,4450,542,31
+776,53de5660a07a0afa4c50de1821a7d26545286fc438365d0774068a49094975f8,Product Issues,Defective Products,Damaged Upon Arrival,0.95,5324,706,34
+777,0035faed471980631a2bc36af07147c23bd070de55a78e3724365668b7e41b64,Warranty & Support,Warranty Information,Warranty Claim Processes,1.0,4651,580,33
+778,e820ceb51dcf57dfdfd5aeca2d6a5e335e6002ce1779544bb716a3f40c6b4fed,Account Management,Login Issues,Password Reset Requests,0.9,4252,522,32
+779,8943d0e327b326d515e7dc6aecbf4d8c21761ce5df5f05140a67c207c8cbdcad,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,4538,613,33
+780,9690c28140bdeb529c6114415d4547eda12e4cb6296628c3ad75364b8f6012f4,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,4361,617,39
+781,f56d8b864ad6263c96a754e4bfc1216903775890266726ad52d0aad7453fdd83,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.9,3323,571,37
+782,285029c81cb1527246e5da669215c8c7d9c0dbe3975e12c851cc18e9108db32e,Billing & Payment,Payment Issues,Cash on Delivery Problems,0.8,3120,573,38
+783,ed15b25836e8b7d918778c9578b343195147e1a31f9f7fb368858be8974cb23c,ERROR,ERROR,ERROR,0.0,0,0,0
+784,3fa055c6f5ef70a3b894002d5b6bb3e1be07688e070f62931b0ab63775a37598,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.8,6120,773,32
+785,8a8088266ac574e666b3acc24fcab01202c519313850274cfe74911227319362,Billing & Payment,Payment Issues,Cash on Delivery Problems,0.8,5186,589,33
+786,5d0a232b4a5382bdec7aec7186114e17e0ef90f1059eccd4223fe123f50e8a94,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,4944,501,32
+787,dd6eba7f2435794e902c2a98d6f937c554cf85d2062858aa24e8a58d5f0444ad,Delivery & Shipping,Delivery Problems,Missing Packages,0.9,4531,748,32
+788,8961ad49bbb0e4b115ce3c4aa0ebacc20dcfc6cb14497ba1a73a080fb673d9d0,Order Management,Order Status & Tracking,Order Confirmation Checks,0.9,4992,461,32
+789,933f87a97670ee108d426ef940af7b9284d4a71f22056af8896ea21c35d5f8fb,Order Management,Order Status & Tracking,Tracking Information Requests,0.9,4577,708,33
+790,271fc491ebdae4e5b44c0f59db7c8326b8f9a1c568c6970f745425a28d63eb21,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,2921,532,35
+791,0ed41336874ad75fbe5a3638dd07d5e7168e1af8b3ff96499c777b303b061f81,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,4909,644,32
+792,cdcaa2a1486880e132297ff05c50eac1a79ebd4c8d8746c380491811fa8ce48c,Account Management,Login Issues,Password Reset Requests,0.95,11096,662,33
+793,ed519343fa9cad23aca8b288be39ef852f40575c69cb53329ef1332f6c8cebc5,ERROR,ERROR,ERROR,0.0,0,0,0
+794,a10a08e291ad5b1deb25b3b7d16ca6cab285d0a20d1defd01d10f12f14309c0f,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,6703,555,34
+795,19bf1914e5e94a30ff1a65275de8427ce76400ff43bd1c6a4f7d1b6ad1b54d34,Product Issues,Defective Products,Not Working Properly,0.9,26687,778,32
+796,a1e6291d6c488cd7501f66a300b3281c34426fb86ffc4d67aaf4390e7ace714b,Product Issues,Defective Products,Installation Problems,0.9,13173,772,33
+797,bf6cbe497ab1a3888c2f683d3c069237d651faef35fb6046bad90797db0974f4,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,11858,680,33
+798,6eec087ae552e02056f58ae5f6c9cb22915e9eb915dd3e15135792a1ac2ef65f,Returns & Exchanges,Exchange Requests,Product Replacements,0.95,10581,591,33
+799,db52604b806bbfedf50e52548f42fdb35e6be687df88ad506bcc0347f42791f3,Returns & Exchanges,Return Processes,Return Eligibility,0.95,7875,802,33
+800,39bc28b8bc25246fe6794d9a34dfdce5ad0d7fc01d6be84100f6a44828c8869d,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5299,608,31
+801,cd9753a248373c3d85a9913d791fb561ae7c27ff81e22b9294d33e886a6a598e,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5449,644,33
+802,274c7c2a9e6395bd0821c65038ddee6bd49a576cd139651f127df34022d433c6,Order Management,Order Modifications,Address Changes for Pickup/Delivery,0.0,4687,662,33
+803,10aab3088fabb03c97672a8fe973a5afaf4a018390ee7e9600dd63ca44aa8ec7,Product Issues,Defective Products,Not Working Properly,0.9,4201,714,33
+804,6d26820a450f81592aa184725ca5a37e47e3d19448e52cbb0b8345aeb444543f,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4952,609,32
+805,0a1e67ce4c2b10bc0f3a5360198b2de438960c4f862df38dc5218f878a6c1e72,ERROR,ERROR,ERROR,0.0,0,0,0
+806,b3881fd3391823632782e9bcfc4057d806f91aed694f1dc4528062c1b2122f62,ERROR,ERROR,ERROR,0.0,0,0,0
+807,8b876780b7a66e7496ef9525a5e7df9c50b703e92c2b92913c03f3a23f1ec3e1,ERROR,ERROR,ERROR,0.0,0,0,0
+808,2b5daa8ba0c3e78255d392c1c19b403bf27deadc0fe3d97ddd51407b6a89324f,ERROR,ERROR,ERROR,0.0,0,0,0
+809,8579914b06f935e068a6e8b5d2a32ed7e6bd624af2c59c61df858d09b1697c51,ERROR,ERROR,ERROR,0.0,0,0,0
+810,04d944cedf59d02fda460163fc636cc45eb4db50aaa8349c200af11a32ca6b29,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,9263,519,30
+811,f8d1f3199d7912de40290e5ce94921ca07442dce28a293a30ade2ff4a4ed1bcb,ERROR,ERROR,ERROR,0.0,0,0,0
+812,e0b8e8bae47cdbfbfad29426979de71bbe673cb7c5b5bc7d6668e77ba0147792,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.8,23098,633,31
+813,a529563a3d7580ed8e346844f4cb4744d16eca20cc0c775bda7a25d7ffe8aa7b,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,26153,706,32
+814,33eaa44204ff69c08e55b9d7a6a4b4d146ffdfbae249911e1f32aadd996ea5ff,Order Management,Order Status & Tracking,Order Confirmation Checks,1.0,17826,452,32
+815,97250fd9bc6318591d265706484a7cd4e1d68e5d44ee69b956adc08961a9b705,Returns & Exchanges,Return Processes,Return Eligibility,0.9,19438,640,31
+816,87abfe344745f81f9e53a497577cce3e4b90541abd372a512621d6d3477e01f5,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,1.0,10888,582,34
+817,9f71d3b849d56666a87efab1d0ffb036fe13a63cc325e725c7b2fbc37f6c5ed8,ERROR,ERROR,ERROR,0.0,0,0,0
+818,0cd9d2e96b3424a7d10b6c04d4b611b31accbf907037a324a810f17ae07f9de6,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.0,11740,562,32
+819,37707c146c1eb8c5652774441cceda9ba87507875a350469b06fd484b9022946,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,8278,660,32
+820,f693e754ad77ac977d5ec6acb237166d30f2cf5ce0fb7104b45692483ae77dc3,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,6683,536,33
+821,9ee649ba9c3c37d83a8c574ea7c0ca8411c9bfcd5f6cb43e0cbcedbb12552dd5,Product Issues,Defective Products,Not Working Properly,0.95,8185,627,33
+822,6f44290d1c66fe1234e85f561349955fc2af3ae2bbc68da08f55012fa6e048a0,Returns & Exchanges,Return Processes,Return Eligibility,0.9,6444,593,32
+823,fa9ae087fb71ba11ac2c6bf2df0bd37e7e78c10cca6c32a47c285b49987cdf99,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,8089,626,32
+824,d17c659ac0dbb13967d467a07787656f225f7dc4cb8a534f6ffa5e09eade1c91,Product Issues,Defective Products,Not Working Properly,0.9,10751,503,32
+825,3e898a7d76d0e45c1359fb044721e98b6d548e5eb7b1724f21212bcc34031a12,Product Issues,Wrong Items Received,Size/Model Mismatches,1.0,5201,669,32
+826,5510757b0edd03427c8d4e11d9b02892ea3b1687514eb486aa43eb766dfdcbef,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5144,615,31
+827,e2598170c3488b4e74b0d50a6df5030ead4cc4a0c6426aa87863f36e7a59becb,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4914,749,32
+828,19b9f7eb307a4ecd711761c7c9b0ca30ce14f7f0a87b5d3d47ad675a1245c3ce,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,5495,650,34
+829,10bc8a1593f5b7da0ae2dd69cc70b810623c50b38fc239e90efd0eafafd11933,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,3474,588,37
+830,9162f34edd1677a12335c70c6aa4bb6bbe059f429b97b6d9419ae6a43b717b0a,Product Issues,Defective Products,Not Working Properly,0.0,5361,751,33
+831,882b1c9abd32bd1012d7888ce3edd803170f203c654945879804547b97a16cb8,Returns & Exchanges,Return Processes,Return Eligibility,0.8,6871,638,33
+832,a0e6b6ed603c41808c6dcba7b8f6bf66ed3141845327e051142d6f6fa71d9e86,Returns & Exchanges,Return Processes,Return Eligibility,0.8,4806,1011,34
+833,bdfd82d01d3c9c9d855609c3379268576b60e40ff069651102efe809f76b3d2f,ERROR,ERROR,ERROR,0.0,0,0,0
+834,c3ea5ac3e45a64ffad6444359a744e78d86c2ba9aebe6612609cef5111e549d4,Delivery & Shipping,Delivery Problems,Delayed Deliveries,1.0,5590,488,30
+835,da45c6639874d0e0e90e298e47dc36625d5f7d9bfaa43635cf96c14c217630e4,ERROR,ERROR,ERROR,0.0,0,0,0
+836,e5f47156e75f962f0531d7e5cc40f3c4af744528886981f81b84abeb3bfed209,Account Management,Login Issues,Password Reset Requests,0.9,5317,611,33
+837,7634176a0214eaab293d71e6fc036b87f9318a0d6cc5a104c533939096526516,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,5657,660,33
+838,befb5069cfe0644aa6bd01f497fdfb0148bd2d130ac504f801581249791ca8e1,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5267,549,35
+839,dc88cff3e1e38476b3173d10b8ca7727502ee6212e51047cbd83b018ecf9bbfa,ERROR,ERROR,ERROR,0.0,0,0,0
+840,e4256721b085d3142d2cd7e62db60fd37a5759c76d5e7df402f598d19538a7f2,ERROR,ERROR,ERROR,0.0,0,0,0
+841,bafca88e93b05996b67f3f099910b4de03e5994f906b376e7a152708babe32fb,Billing & Payment,Refunds,Refund Status Checks,0.9,17505,601,34
+842,fd201154b89c46ae374b81e722b51375bd216a3022f1e13e996a64b461cc65b3,ERROR,ERROR,ERROR,0.0,0,0,0
+843,c2dda8c407393bf2ca16fb178d5b431974e3ad3e496208d5e58c9e59ea21201c,Billing & Payment,Refunds,Refund Status Checks,0.0,5517,594,32
+844,163d9000dd75c4e4d11489ef691a1746dca0ddf91fc42264b039cc85e1054e02,ERROR,ERROR,ERROR,0.0,0,0,0
+845,d5a9f1a988d99a21abd15d746372e72e4387f5b2cd98340732a5d172c30e9644,Returns & Exchanges,Return Processes,Return Eligibility,0.95,6084,544,39
+846,06124b15ce9ab7e62ae0ecfb7105c20895c20860afb92a75cd66f5f2957e22ef,ERROR,ERROR,ERROR,0.0,0,0,0
+847,356c5327789825f19e0b949cd5df8a8e2eb5039f8dbb5180667d8f85b8860994,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.0,4750,627,32
+848,f1d2ad0bc3886bb04e31081cddcbeedc65bf771f9c137dd76f8fe79d6be95b29,Returns & Exchanges,Return Processes,Return Eligibility,1.0,6393,645,39
+849,e1917f8eac153869382719119e5b6cfe82159ce110f4e7a613da9b1a10ba3b9f,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5528,838,32
+850,9d0a99afa24b43ab0a876922b6a3e495d21e06da8fa9ac4a3628986eabcdc417,Delivery & Shipping,Delivery Problems,Missing Packages,0.8,4665,719,33
+851,702c90ed01eabd571ecd8c279233cf444f0a86c07c6b867fceb73ee755908a1e,Returns & Exchanges,Return Processes,Return Eligibility,0.95,3917,618,38
+852,ae41eac0f4e89babfccbf2c0405d957481c5fbf0d8449af791c82f62613aacca,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5854,575,32
+853,de4fb7fd4fb6e6999bb9bab68707aebe62aa2753c6ed3b70ebfb2eb5f2807e86,Returns & Exchanges,Return Processes,Return Fees and Policies,1.0,4573,495,32
+854,900b64b1bd0063cab17a4a8f3a8211dab305e5ddce5a26fdd9ec6e8a0b311d64,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,4504,743,35
+855,1fcb9281781ed34ffb113fae393d055d6495ca14b9696f017e02e37185e28c02,Account Management,Login Issues,Password Reset Requests,0.9,4834,634,38
+856,62d8cbaeef10c290020a3a1c8f553d4e5824f7f1afd12a8667ac288945513fbf,ERROR,ERROR,ERROR,0.0,0,0,0
+857,1a6b744c8c11327ff9b54067bdce78c7f954ec2f4d2a3d4465d1f82e35f99c82,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5039,875,33
+858,e7b728de1b313c889f653f1a53457d95e3c59dc872e65cae9d2fb9eec3c7aa9e,Returns & Exchanges,Exchange Requests,Product Replacements,0.8,5569,666,38
+859,dfa7b7110d4eb67240ce87f87988a008cce229744d0c745827bfb5cced408306,Account Management,Login Issues,Password Reset Requests,0.9,4645,483,32
+860,e432db619c8321428548f32dc061f922648d33d1cea2eb37de3163d448f3bca3,Warranty & Support,Technical Support,Product Troubleshooting,0.9,5871,709,32
+861,8f39224e8f2d939fcc1259a4528648a1c1404df755999789d162f596148b3c0b,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5107,527,32
+862,0d2d0a19a946ff8e7d11b65f50cc20e6095a9439b892d49e00e48ee82ec0b635,Account Management,Login Issues,Password Reset Requests,0.9,5289,822,32
+863,a46c37b03b03c69e6817ca6c4ab17d92a6eb8c4f37c7efd8ed516ff0e385249d,Product Issues,Wrong Items Received,Size/Model Mismatches,0.9,6116,647,33
+864,083ee05b70a246e203dbb624934421ffeb52f73a79f23f877d83c7ed73730523,ERROR,ERROR,ERROR,0.0,0,0,0
+865,eaf915cea1488ab00a25438abf67cb51e2c5c3c8c9cc237524b4a6669d92b8e5,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,6122,608,32
+866,1b6099d0989832e9e135a0f4a0136faddaad66f9f49d79254295a1cc8a6baddf,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5112,594,34
+867,beb84431519ea8212a611d5f29be43d2190ffe8945ab5cb580f9db711df5f430,Billing & Payment,Payment Issues,Cash on Delivery Problems,0.9,5402,598,33
+868,9ffc737acf87b0dab5572ac8ad67180640f04ffe754990be8797566c1e7a0c94,ERROR,ERROR,ERROR,0.0,0,0,0
+869,d6929775250f9b1b81c5ec549a0684774e3a2e96ff10abeeeff0c549c0cfe4aa,Delivery & Shipping,Shipping Options,Faster Delivery Requests,0.9,4961,609,32
+870,3cb51be01b99d2c665db2920edeeb0e62af1d10a0b79077a7adc46c0e3e19e61,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5115,614,43
+871,83db1b6a329c56904258c62489b9e4cf0c6ffdaf1a7d25fba7357cb086d598d9,ERROR,ERROR,ERROR,0.0,0,0,0
+872,e7f999a9db79f6223249f8df37a37fa5c55e166546bb09ce1c7a5339b1eafae5,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5270,610,37
+873,02cf9bc67699b4c9eaac184f3ad48ff29e0ca107e5ba23d67c42bc186a6dcb25,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,7558,886,33
+874,69625f36a0600dc4e0db32eb40165b9b1c93c2a70fe19d94c40ac08037291b58,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5013,750,32
+875,49cc97095ec396a42cbc2f88a4704d124409c1e5c3625f837802518716aac477,Product Issues,Defective Products,Not Working Properly,0.0,5108,1045,32
+876,a7e2ce7266cf6af8c7aebf87e7e8dbd050a2e49af2428ed3736f56cc140273f8,Documentation,Invoice Issues,Missing Invoices,0.9,3725,808,35
+877,fecbffbe26afd14c5c5b6773f4eb6dff95d0b6ab16751fb0a7cfbf9d36d18362,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4434,645,37
+878,068d0bb17860897dfdc25f442cbe75a9a57b1b2c4994381830b1b0a3c7c89f5c,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.8,3674,605,37
+879,6d0ad6e1bd03c5aae46f5bc43e7f7c5ee0535142930ecc74f758245a9b3a55ce,Product Issues,Defective Products,Not Working Properly,0.0,4685,598,33
+880,b83a616408d93e69bcf95a8c465b3d160f1a6ac3113fb9463d7c3ca494646ab0,Warranty & Support,Warranty Information,Warranty Claim Processes,1.0,5479,716,33
+881,1fa119ea402bc9e9aa0a87ece2dd3cf8d58b470578be351bbd17789e7da1de41,Product Issues,Defective Products,Not Working Properly,0.9,5050,687,34
+882,efd7eca40fbe3a16fb6c8d39e682e82182c5f7982ec95f57e31142fcd93ee8f2,Order Management,Order Modifications,Cancellation Requests,0.8,3022,639,41
+883,12bf3dd66b55a7009b957e30d9c208e557bf609864adaecf29e6300387085b0c,Billing & Payment,Payment Issues,Cash on Delivery Problems,0.9,5515,594,33
+884,778b589395b9d6c3d23c481725d251d43f19fae5964ff681d2d7b5397a3ddc2b,Warranty & Support,Technical Support,Product Troubleshooting,0.95,4348,641,32
+885,ed1e5642a50494a1dbb203f6e59a2fa2f257a07fca0b2265049e874cfae022be,ERROR,ERROR,ERROR,0.0,0,0,0
+886,877b77803de282b6da6ccd355677e726ae3d1c765e6cf736c2958df044f2174f,Inventory & Availability,Stock Issues,Out of Stock Products,1.0,5213,902,33
+887,5ddd560b6dbf60e997ea5a248009e6ce7e324468faaaac7eea01d48abd5e814b,Product Issues,Wrong Items Received,Size/Model Mismatches,0.0,4708,603,33
+888,77235a315645ad4c2dbf8b54b2760363d72f698308288abc93d0de28cb2582d0,Returns & Exchanges,Exchange Requests,Product Replacements,0.95,4808,599,41
+889,7ad2f9fe7b2d4ce39d10bfc7076bdebbe3d9dca0b16c625ea30229061b79fa8d,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5014,658,32
+890,03791ab6d8a9ee4f1d614da5d359b7f889930a409d440e55401ad109128e1c11,ERROR,ERROR,ERROR,0.0,0,0,0
+891,0021be768f6f55fec821e794d1566e895a50973798d0ffcfb8c6364f5b42a220,Returns & Exchanges,Return Processes,Return Eligibility,0.8,4685,603,32
+892,b953a5e8aa69581d34ac3ce0c962553b1b981d943f4cd176b78db6aa74fbc0a8,ERROR,ERROR,ERROR,0.0,0,0,0
+893,c839c7a2526fff7a93c4a0728d1a29c61cafa5a823b620ef6c95e5d524584152,Product Issues,Wrong Items Received,Size/Model Mismatches,0.9,5430,562,38
+894,d03afe2b0f25a0f07ecbf45b9f173dca191c9c16bcfe6c0083b9c123511ec186,ERROR,ERROR,ERROR,0.0,0,0,0
+895,7ddc755a8fb767c53155b019f7ba0d5337ac52c31513266caf3685d388474d15,Returns & Exchanges,Return Processes,Return Eligibility,0.0,5118,796,33
+896,8075308501a99bdcda01920116f5b58454211f9371aba31bccb4df76a895db8a,Warranty & Support,Warranty Information,Warranty Claim Processes,0.9,5680,753,32
+897,1b826a8ed08c0f48e39cd548632bd334e9598a00eef24bc787e9f7fb16c90b49,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4823,715,33
+898,b938f4b7a20e25824cd335c27daed6230b166abfde0c8e24b1694de511829116,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.95,4375,442,32
+899,001392ca62862a8f455aa292e29f460cc45786221fde5f11325c4fc9efe8bada,ERROR,ERROR,ERROR,0.0,0,0,0
+900,5046288ac47ae0bf0e73932c9d0f5be9145665c45a306ce9ce202c8653767358,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,4715,554,33
+901,997616be6d947c59f11e5ea5292d89e36745509ff07fbe8053a5e86cb80225f8,Pricing & Promotions,Pricing Discrepancies,Different Prices for Same Products,0.0,4848,662,32
+902,d1081d6b2e22b980541a2e7f94386b838bcc82165714cdfdaaec7a3d5bbc7e7b,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.9,5738,731,32
+903,472810d5884f1bfe40c76ffff05f66d780931b2863ec4e4f4303db6c028ba500,Billing & Payment,Refunds,Refund Status Checks,0.0,5313,441,33
+904,6750f1c64a9a82a03f9ae918f337f4db251a8f558e512ab9cbaa61dd24a5574f,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4719,660,31
+905,b876a2e6b0930062a9ab909580a5d50f5352c239255ce621e6108721fa56f151,Returns & Exchanges,Return Processes,Return Eligibility,0.95,4744,764,31
+906,d257f5bec45281660112d2e43a808a12f65d00237528f9a96044ee75dcc9761b,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,3109,631,38
+907,be6065abfe9860cc6b1fec340c9bc8f7848e46353781d900b224d0d23cdeecf5,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5976,545,33
+908,9208271cf07074a8928e188cbb88010a2e1a552eee61bee30903c0554b7238c3,Product Issues,Defective Products,Not Working Properly,0.0,5071,617,32
+909,48fa9bf506ca61fb8239744c03da74b5f323f9af21d26886d6a35b0b156102de,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,4783,819,32
+910,e7f4211a8692acccefb6307a5a85d88940a27da2f9345cf51edb17337645de82,Product Issues,Wrong Items Received,Size/Model Mismatches,1.0,12872,709,32
+911,c579d2426779557b61a8d560cc1aa73ce1ade12b640569a5c391c281d4661d13,Warranty & Support,Warranty Information,Warranty Claim Processes,0.95,4049,743,42
+912,99eaa5f7a9393fceb09e2ffd81be56402ed70e1d5af4377646ec9ba4bc2683bd,ERROR,ERROR,ERROR,0.0,0,0,0
+913,cfbd9c01ce68ac45511e4ca26292275d3db2e73c5155ece917aeaba88886d59f,Returns & Exchanges,Return Processes,Return Eligibility,0.0,6569,639,31
+914,d1fdc93d00766101c142c8620a57abfd1952db3f7aef01d1dd22fea5eba0ada5,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.95,5472,664,36
+915,a14dbbeeababb592bab62f205e623e0cd847acb80f03ccc02b7adb5144cf337a,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,5865,499,32
+916,d1379acf15fff8edf25404b1f0d9c411c46d41c4cd181889288b4363cf62ae20,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,4097,1193,38
+917,934f76b95655a138944eb421f7e1fca0ebb2b83844a325eb8eab4a6d0472b502,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,3203,757,37
+918,60f6a848c129ee722b6aa0020a69ebad11be95b18673803f862f28cb93922bf4,Returns & Exchanges,Return Processes,Return Eligibility,0.8,5171,669,35
+919,d703aabafba24ab002da4a99bf0f498f173fb8e30411a1df7005d20f191c1498,Returns & Exchanges,Return Processes,Return Eligibility,0.0,4616,737,34
+920,209d84d3dc73d3778a28cb4a286dfc6acbd49f5cd3408e8a2a394864526d531e,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.9,5191,600,32
+921,2b0e016eca26492f19a726311db3c2d26b30f56d5355d0714433f660d86e66f8,Returns & Exchanges,Return Processes,Return Eligibility,0.9,3496,572,37
+922,ba59886898fd4244aebe7099007f86bb9ab28c05d943f169676ae7a92f598467,Delivery & Shipping,Delivery Problems,Delayed Deliveries,0.0,5064,787,30
+923,6f95cf0bcbb4a104575a9d0d7cf17f98d5083bb81f4c4dacb5b2d9887338ed13,Account Management,Login Issues,Password Reset Requests,0.95,3455,643,37
+924,31814ac6743fb78fd8ebfcdc377c386b52beae57b20adf56211f2b0e5075fc4a,ERROR,ERROR,ERROR,0.0,0,0,0
+925,0d7fdb32fe5a380d24bfba90f9e0d9e07611a90b2f58b306f23c4beacc769e72,Billing & Payment,Payment Issues,Credit Card Payment Failures,0.9,5107,840,39
+926,2e9d0998339a6e632638f554c145e965db71e5dcc7225d07494b50171947684f,ERROR,ERROR,ERROR,0.0,0,0,0
+927,0e0c3c6be6703791324b18c4248a9d957d4c20a6f9f574525084bf52c418be6f,Returns & Exchanges,Exchange Requests,Defective Item Exchanges,0.9,5185,598,30
+928,358494bf0286745f459fed94e07c3abcae246d1736d575bdd4f3ad7d131095b1,Product Issues,Defective Products,Installation Problems,0.8,4721,656,31
+929,966d76887396aaf22853fea8e2f7277748ea6f834df3ef26693cfe2c3f17b746,Delivery & Shipping,Delivery Problems,Missing Packages,0.9,4539,745,32
+930,20ca009a444be09676b4bbba672b872dfaa44d3dd7537e9f0d71fd4f3b35f90e,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.9,87852,577,37
+931,1375eb8aca43ea6ca92c08302ee1bbd205a47ec2a130968e4c5bce4b45fd44af,Account Management,Account Information Updates,Mobile Number Verification,0.0,5016,654,33
+932,8df46e6180c747a3014a4a83885ecee4f1fe6e4e793775336b0586785dcb4449,Returns & Exchanges,Return Processes,Return Eligibility,0.9,5733,808,32
+933,90f88fe6c9253dc023049bd29f891c7a61c7d47a05765e9908264a7c5c6a2519,Billing & Payment,Refunds,Refund Status Checks,0.8,67754,651,33
+934,9d0ed90acc4cf2f709f4e90e6c4d4d902477fddaa782f1aa41351d9f5cd65d38,Warranty & Support,Technical Support,Product Troubleshooting,0.0,5180,746,32
+935,38c8c6f55f5fe6afbafb558bc1b08f3edff4326d5fec4b02c85cfe5749a64a7a,Account Management,Account Information Updates,Email Address Changes,0.9,6247,713,33
+936,3d1398cc1eb3614c8fabe076f65e63f60c3c6247176f850513b6335fa87d9ec2,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.0,5137,497,32
+937,a955e396002264b614ac2751111807122717c890acff7d69d069285aabba5d9b,Returns & Exchanges,Return Processes,Return Eligibility,0.9,4987,680,38
+938,4f26733e4c36ca82234a60bdf0f4dc8969f90082b5925ddcc7c0d55f8915e80b,ERROR,ERROR,ERROR,0.0,0,0,0
+939,e3bb1cf451eb72b9632d11786e8a77f1960e172881b6006bcc49777d29c6095b,Account Management,Login Issues,Mobile/Email Verification Problems,0.8,5421,976,32
+940,fcaf51a92611e142a5c3f5f9027e20a7eca813deb8f5e594662165b6207948e8,ERROR,ERROR,ERROR,0.0,0,0,0
+941,8ece4ce3d0f8413c3029dffed6d18915ad1ce64455a374c6e4ce06ffdf59e327,Delivery & Shipping,Delivery Problems,Delayed Deliveries,1.0,5395,736,31
+942,71e285abd96ee510d66cdc83b2072ce46b32de6e9916bb02c163afbaf3d5a552,Product Issues,Defective Products,Installation Problems,0.9,5480,695,32
+943,d4826441b0ce9c419a28a9804037a6015ee014b47f088de7f5766e292c1cd3f1,Order Management,Order Status & Tracking,Delivery Status Inquiries,0.95,5734,404,32
+944,9cf5f3929480b31a95f25ec180e25a5846e728de5d18fa4c498dac55f393fd10,ERROR,ERROR,ERROR,0.0,0,0,0
+945,cb286264113d39abe662d44aa16da2673dc025d768ec618a100cd7b344ba5081,ERROR,ERROR,ERROR,0.0,0,0,0
+946,0b6071a046ae821b097e38ae432a329f3bdf3dfe8eda1a293e873472892d8f04,ERROR,ERROR,ERROR,0.0,0,0,0
+947,21ee5e0a2605fbe823dbf045f2087e2ebdb301b5e985b13b77c2d2f2ca5abe3c,ERROR,ERROR,ERROR,0.0,0,0,0
+948,41f1c6e4accf1bacf3e2f40ff67c14539b82d677fc9b9036ef0e68d4e0cacdcd,Warranty & Support,Technical Support,Product Troubleshooting,0.9,5419,607,32
+949,7a4b37e91a2ebcc2b196c48f18b92d53501e08c87240235c05c10f259b8f1852,Account Management,Login Issues,Mobile/Email Verification Problems,0.9,5158,571,32
+950,0f4ff3dd334598073ced865da77812f453f85ab594f246c86f3e25ecc3ffccfb,Billing & Payment,Refunds,Refund Status Checks,0.0,5093,592,33
+951,524f8ce0692014bfbd9e4ff6b265ee92623e9194196ab003b30391c531248965,Warranty & Support,Warranty Information,Warranty Terms and Conditions,0.8,5361,513,32
