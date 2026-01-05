@@ -4,3 +4,17 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+# Vector DB runtime
+qdrant_storage/
+
+# Local models
+models/
+*.gguf
+*.bin
+
+# Data artifacts
+app/data/*.csv
+
+# Env
+.env
+
